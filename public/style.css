@@ -1,0 +1,34 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+.location-info-container {
+  position: absolute;
+  top: 0px;
+  display: flex;
+  width: 100%;
+  height: auto;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.68) 53%, rgba(0, 0, 0, 0) 100%);
+  padding: 25px;
+  border-radius: 5px;
+  font-family: monospace;
+  color: white;
+  flex-direction: column;
+  align-items: center;
+}
+
+.location-info-container h1 {
+  margin: 0 0 1rem 0;
+  font-size: 24px;
+}
+
+.location-info-container p {
+  margin: 0 0 0.25rem 0;
+  font-size: 16px;
+}
