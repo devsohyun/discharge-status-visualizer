@@ -1,0 +1,2002 @@
+[
+    {
+        "locationName": "Crondall",
+        "permitNumber": "CSSC.2450",
+        "locationGridRef": "SU79554953",
+        "x": 479550,
+        "y": 149530,
+        "receivingWaterCourse": "River Hart",
+        "alertType": "Start",
+        "datetime": "2026-03-14T18:30:00"
+    },
+    {
+        "locationName": "Fairford",
+        "permitNumber": "CATM.3518",
+        "locationGridRef": "SP15660038",
+        "x": 415660,
+        "y": 200380,
+        "receivingWaterCourse": "River Coln",
+        "alertType": "Start",
+        "datetime": "2026-03-14T18:30:00"
+    },
+    {
+        "locationName": "Crondall",
+        "permitNumber": "CSSC.2450",
+        "locationGridRef": "SU79554953",
+        "x": 479550,
+        "y": 149530,
+        "receivingWaterCourse": "River Hart",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T17:45:00"
+    },
+    {
+        "locationName": "Bampton",
+        "permitNumber": "TEMP.2373",
+        "locationGridRef": "SP32300275",
+        "x": 432300,
+        "y": 202750,
+        "receivingWaterCourse": "Shill Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-14T17:00:00"
+    },
+    {
+        "locationName": "Weybridge",
+        "permitNumber": "CTCR.0944",
+        "locationGridRef": "TQ06776314",
+        "x": 506770,
+        "y": 163140,
+        "receivingWaterCourse": "River Wey",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T17:00:00"
+    },
+    {
+        "locationName": "Chigwell Road, Woodford Green G",
+        "permitNumber": "CETR.0232",
+        "locationGridRef": "TQ416911",
+        "x": 541600,
+        "y": 191100,
+        "receivingWaterCourse": "River Roding",
+        "alertType": "Start",
+        "datetime": "2026-03-14T16:46:00"
+    },
+    {
+        "locationName": "Bampton",
+        "permitNumber": "TEMP.2373",
+        "locationGridRef": "SP32300275",
+        "x": 432300,
+        "y": 202750,
+        "receivingWaterCourse": "Shill Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T16:30:00"
+    },
+    {
+        "locationName": "Crondall",
+        "permitNumber": "CSSC.2450",
+        "locationGridRef": "SU79554953",
+        "x": 479550,
+        "y": 149530,
+        "receivingWaterCourse": "River Hart",
+        "alertType": "Start",
+        "datetime": "2026-03-14T16:15:00"
+    },
+    {
+        "locationName": "Weybridge",
+        "permitNumber": "CTCR.0944",
+        "locationGridRef": "TQ06776314",
+        "x": 506770,
+        "y": 163140,
+        "receivingWaterCourse": "River Wey",
+        "alertType": "Start",
+        "datetime": "2026-03-14T16:15:00"
+    },
+    {
+        "locationName": "Basingstoke",
+        "permitNumber": "CTCR.0875",
+        "locationGridRef": "SU67805525",
+        "x": 467800,
+        "y": 155250,
+        "receivingWaterCourse": "Tributary of River Loddon",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T16:00:00"
+    },
+    {
+        "locationName": "Willingale",
+        "permitNumber": "CSSC.1456",
+        "locationGridRef": "TL58950707",
+        "x": 558950,
+        "y": 207070,
+        "receivingWaterCourse": "Tributary of River Roding",
+        "alertType": "Start",
+        "datetime": "2026-03-14T15:45:00"
+    },
+    {
+        "locationName": "Maple Lodge",
+        "permitNumber": "CNTD.0071",
+        "locationGridRef": "TQ04129237",
+        "x": 504120,
+        "y": 192370,
+        "receivingWaterCourse": "River Colne",
+        "alertType": "Start",
+        "datetime": "2026-03-14T15:30:00"
+    },
+    {
+        "locationName": "Crondall",
+        "permitNumber": "CSSC.2450",
+        "locationGridRef": "SU79554953",
+        "x": 479550,
+        "y": 149530,
+        "receivingWaterCourse": "River Hart",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T15:15:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T15:12:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Start",
+        "datetime": "2026-03-14T15:08:00"
+    },
+    {
+        "locationName": "Basingstoke",
+        "permitNumber": "CTCR.0875",
+        "locationGridRef": "SU67805525",
+        "x": 467800,
+        "y": 155250,
+        "receivingWaterCourse": "Tributary of River Loddon",
+        "alertType": "Start",
+        "datetime": "2026-03-14T15:00:00"
+    },
+    {
+        "locationName": "Willingale",
+        "permitNumber": "CSSC.1456",
+        "locationGridRef": "TL58950707",
+        "x": 558950,
+        "y": 207070,
+        "receivingWaterCourse": "Tributary of River Roding",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T14:30:00"
+    },
+    {
+        "locationName": "Stanton Harcourt",
+        "permitNumber": "CSSC.1439",
+        "locationGridRef": "SP42190601",
+        "x": 442190,
+        "y": 206010,
+        "receivingWaterCourse": "Harcourt Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T14:00:00"
+    },
+    {
+        "locationName": "Fairford",
+        "permitNumber": "CATM.3518",
+        "locationGridRef": "SP15660038",
+        "x": 415660,
+        "y": 200380,
+        "receivingWaterCourse": "River Coln",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T13:45:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T13:44:00"
+    },
+    {
+        "locationName": "Ripley",
+        "permitNumber": "CTCR.2150",
+        "locationGridRef": "TQ04495732",
+        "x": 504490,
+        "y": 157320,
+        "receivingWaterCourse": "River Wey",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T13:30:00"
+    },
+    {
+        "locationName": "Fairford",
+        "permitNumber": "CATM.3518",
+        "locationGridRef": "SP15660038",
+        "x": 415660,
+        "y": 200380,
+        "receivingWaterCourse": "River Coln",
+        "alertType": "Start",
+        "datetime": "2026-03-14T13:15:00"
+    },
+    {
+        "locationName": "Crondall",
+        "permitNumber": "CSSC.2450",
+        "locationGridRef": "SU79554953",
+        "x": 479550,
+        "y": 149530,
+        "receivingWaterCourse": "River Hart",
+        "alertType": "Start",
+        "datetime": "2026-03-14T13:15:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Start",
+        "datetime": "2026-03-14T13:14:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T12:54:00"
+    },
+    {
+        "locationName": "Holmwood",
+        "permitNumber": "CTCR.1189",
+        "locationGridRef": "TQ18924492",
+        "x": 518920,
+        "y": 144920,
+        "receivingWaterCourse": "Holmwood Stream",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T12:45:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Start",
+        "datetime": "2026-03-14T12:32:00"
+    },
+    {
+        "locationName": "Ripley",
+        "permitNumber": "CTCR.2150",
+        "locationGridRef": "TQ04495732",
+        "x": 504490,
+        "y": 157320,
+        "receivingWaterCourse": "River Wey",
+        "alertType": "Start",
+        "datetime": "2026-03-14T12:30:00"
+    },
+    {
+        "locationName": "Crondall",
+        "permitNumber": "CSSC.2450",
+        "locationGridRef": "SU79554953",
+        "x": 479550,
+        "y": 149530,
+        "receivingWaterCourse": "River Hart",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T12:30:00"
+    },
+    {
+        "locationName": "Kingsclere",
+        "permitNumber": "CSSC.2340",
+        "locationGridRef": "SU53136086",
+        "x": 453130,
+        "y": 160860,
+        "receivingWaterCourse": "Kingsclere Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T12:15:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T11:58:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Start",
+        "datetime": "2026-03-14T11:52:00"
+    },
+    {
+        "locationName": "Washwater",
+        "permitNumber": "TEMP.2994",
+        "locationGridRef": "SU45406270",
+        "x": 445400,
+        "y": 162700,
+        "receivingWaterCourse": "Pound Street Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T11:45:00"
+    },
+    {
+        "locationName": "Holmwood",
+        "permitNumber": "CTCR.1189",
+        "locationGridRef": "TQ18924492",
+        "x": 518920,
+        "y": 144920,
+        "receivingWaterCourse": "Holmwood Stream",
+        "alertType": "Start",
+        "datetime": "2026-03-14T11:30:00"
+    },
+    {
+        "locationName": "Selborne",
+        "permitNumber": "CTCR.0742",
+        "locationGridRef": "SU74583378",
+        "x": 474580,
+        "y": 133780,
+        "receivingWaterCourse": "Oakhanger Stream",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T11:15:00"
+    },
+    {
+        "locationName": "Bourton-On-The-Water",
+        "permitNumber": "CTCR.2036",
+        "locationGridRef": "SP17621907",
+        "x": 417620,
+        "y": 219070,
+        "receivingWaterCourse": "Groundwater",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T11:15:00"
+    },
+    {
+        "locationName": "Holmwood",
+        "permitNumber": "CTCR.1189",
+        "locationGridRef": "TQ18924492",
+        "x": 518920,
+        "y": 144920,
+        "receivingWaterCourse": "Holmwood Stream",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T11:00:00"
+    },
+    {
+        "locationName": "Stansted Mountfitchet",
+        "permitNumber": "CLCR.0165",
+        "locationGridRef": "TL50092427",
+        "x": 550090,
+        "y": 224270,
+        "receivingWaterCourse": "River Stort",
+        "alertType": "Start",
+        "datetime": "2026-03-14T10:45:00"
+    },
+    {
+        "locationName": "Bourton-On-The-Water",
+        "permitNumber": "CTCR.2036",
+        "locationGridRef": "SP17621907",
+        "x": 417620,
+        "y": 219070,
+        "receivingWaterCourse": "Groundwater",
+        "alertType": "Start",
+        "datetime": "2026-03-14T10:45:00"
+    },
+    {
+        "locationName": "Holmwood",
+        "permitNumber": "CTCR.1189",
+        "locationGridRef": "TQ18924492",
+        "x": 518920,
+        "y": 144920,
+        "receivingWaterCourse": "Holmwood Stream",
+        "alertType": "Start",
+        "datetime": "2026-03-14T10:15:00"
+    },
+    {
+        "locationName": "Chapel Row (Berks)",
+        "permitNumber": "CSSC.2466",
+        "locationGridRef": "SU57456934",
+        "x": 457450,
+        "y": 169340,
+        "receivingWaterCourse": "Tributary of River Bourne",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T09:45:00"
+    },
+    {
+        "locationName": "Drayton (Oxon)",
+        "permitNumber": "CNTD.0030",
+        "locationGridRef": "SU48309332",
+        "x": 448300,
+        "y": 193320,
+        "receivingWaterCourse": "Ginge Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-14T09:45:00"
+    },
+    {
+        "locationName": "Church Hanborough",
+        "permitNumber": "CSSC.5783",
+        "locationGridRef": "SP42231293",
+        "x": 442230,
+        "y": 212930,
+        "receivingWaterCourse": "Hanborough Stream",
+        "alertType": "Start",
+        "datetime": "2026-03-14T09:30:00"
+    },
+    {
+        "locationName": "Bampton",
+        "permitNumber": "TEMP.2373",
+        "locationGridRef": "SP32300275",
+        "x": 432300,
+        "y": 202750,
+        "receivingWaterCourse": "Shill Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-14T09:30:00"
+    },
+    {
+        "locationName": "Berkhamsted",
+        "permitNumber": "CATM.3074",
+        "locationGridRef": "TL01300681",
+        "x": 501300,
+        "y": 206810,
+        "receivingWaterCourse": "Grand Union Canal",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T09:00:00"
+    },
+    {
+        "locationName": "Gerrards Cross",
+        "permitNumber": "TEMP.2613",
+        "locationGridRef": "TQ01948761",
+        "x": 501940,
+        "y": 187610,
+        "receivingWaterCourse": "River Misbourne",
+        "alertType": "Start",
+        "datetime": "2026-03-14T09:00:00"
+    },
+    {
+        "locationName": "Kingsclere",
+        "permitNumber": "CSSC.2340",
+        "locationGridRef": "SU53136086",
+        "x": 453130,
+        "y": 160860,
+        "receivingWaterCourse": "Kingsclere Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-14T09:00:00"
+    },
+    {
+        "locationName": "Chigwell Road, Woodford Green G",
+        "permitNumber": "CETR.0232",
+        "locationGridRef": "TQ416911",
+        "x": 541600,
+        "y": 191100,
+        "receivingWaterCourse": "River Roding",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T08:54:00"
+    },
+    {
+        "locationName": "Purton",
+        "permitNumber": "CNTD.0051",
+        "locationGridRef": "SU08918925",
+        "x": 408910,
+        "y": 189250,
+        "receivingWaterCourse": "Tributary of River Key",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T08:30:00"
+    },
+    {
+        "locationName": "Gerrards Cross",
+        "permitNumber": "TEMP.2613",
+        "locationGridRef": "TQ01948761",
+        "x": 501940,
+        "y": 187610,
+        "receivingWaterCourse": "River Misbourne",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T08:30:00"
+    },
+    {
+        "locationName": "Cranleigh",
+        "permitNumber": "CTCR.1838",
+        "locationGridRef": "TQ04033925",
+        "x": 504030,
+        "y": 139250,
+        "receivingWaterCourse": "Cranleigh Waters",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T08:30:00"
+    },
+    {
+        "locationName": "Berkhamsted",
+        "permitNumber": "CATM.3074",
+        "locationGridRef": "TL01300681",
+        "x": 501300,
+        "y": 206810,
+        "receivingWaterCourse": "Grand Union Canal",
+        "alertType": "Start",
+        "datetime": "2026-03-14T08:15:00"
+    },
+    {
+        "locationName": "Selborne",
+        "permitNumber": "CTCR.0742",
+        "locationGridRef": "SU74583378",
+        "x": 474580,
+        "y": 133780,
+        "receivingWaterCourse": "Oakhanger Stream",
+        "alertType": "Start",
+        "datetime": "2026-03-14T08:00:00"
+    },
+    {
+        "locationName": "Cirencester",
+        "permitNumber": "CTCR.1750",
+        "locationGridRef": "SU03589679",
+        "x": 403580,
+        "y": 196790,
+        "receivingWaterCourse": "Shorncote Ditch",
+        "alertType": "Start",
+        "datetime": "2026-03-14T07:45:00"
+    },
+    {
+        "locationName": "Cranleigh",
+        "permitNumber": "CTCR.1838",
+        "locationGridRef": "TQ04033925",
+        "x": 504030,
+        "y": 139250,
+        "receivingWaterCourse": "Cranleigh Waters",
+        "alertType": "Start",
+        "datetime": "2026-03-14T07:00:00"
+    },
+    {
+        "locationName": "Cranleigh",
+        "permitNumber": "CTCR.1838",
+        "locationGridRef": "TQ04033925",
+        "x": 504030,
+        "y": 139250,
+        "receivingWaterCourse": "Cranleigh Waters",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T06:15:00"
+    },
+    {
+        "locationName": "Maple Lodge",
+        "permitNumber": "CNTD.0071",
+        "locationGridRef": "TQ04129237",
+        "x": 504120,
+        "y": 192370,
+        "receivingWaterCourse": "River Colne",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T06:15:00"
+    },
+    {
+        "locationName": "Cirencester",
+        "permitNumber": "CTCR.1750",
+        "locationGridRef": "SU03589679",
+        "x": 403580,
+        "y": 196790,
+        "receivingWaterCourse": "Shorncote Ditch",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T06:00:00"
+    },
+    {
+        "locationName": "Cranleigh",
+        "permitNumber": "CTCR.1838",
+        "locationGridRef": "TQ04033925",
+        "x": 504030,
+        "y": 139250,
+        "receivingWaterCourse": "Cranleigh Waters",
+        "alertType": "Start",
+        "datetime": "2026-03-14T05:45:00"
+    },
+    {
+        "locationName": "Cirencester",
+        "permitNumber": "CTCR.1750",
+        "locationGridRef": "SU03589679",
+        "x": 403580,
+        "y": 196790,
+        "receivingWaterCourse": "Shorncote Ditch",
+        "alertType": "Start",
+        "datetime": "2026-03-14T05:30:00"
+    },
+    {
+        "locationName": "Cranleigh",
+        "permitNumber": "CTCR.1838",
+        "locationGridRef": "TQ04033925",
+        "x": 504030,
+        "y": 139250,
+        "receivingWaterCourse": "Cranleigh Waters",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T05:15:00"
+    },
+    {
+        "locationName": "Fiddlers Hamlet",
+        "permitNumber": "CSSC.0295",
+        "locationGridRef": "TL47810038",
+        "x": 547810,
+        "y": 200380,
+        "receivingWaterCourse": "Brookhouse Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T05:15:00"
+    },
+    {
+        "locationName": "Cirencester",
+        "permitNumber": "CTCR.1750",
+        "locationGridRef": "SU03589679",
+        "x": 403580,
+        "y": 196790,
+        "receivingWaterCourse": "Shorncote Ditch",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T04:00:00"
+    },
+    {
+        "locationName": "Chigwell Road, Woodford Green G",
+        "permitNumber": "CETR.0232",
+        "locationGridRef": "TQ416911",
+        "x": 541600,
+        "y": 191100,
+        "receivingWaterCourse": "River Roding",
+        "alertType": "Start",
+        "datetime": "2026-03-14T03:40:00"
+    },
+    {
+        "locationName": "Holmwood",
+        "permitNumber": "CTCR.1189",
+        "locationGridRef": "TQ18924492",
+        "x": 518920,
+        "y": 144920,
+        "receivingWaterCourse": "Holmwood Stream",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T02:45:00"
+    },
+    {
+        "locationName": "Stansted Mountfitchet",
+        "permitNumber": "CLCR.0165",
+        "locationGridRef": "TL50092427",
+        "x": 550090,
+        "y": 224270,
+        "receivingWaterCourse": "River Stort",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T02:15:00"
+    },
+    {
+        "locationName": "Cirencester",
+        "permitNumber": "CTCR.1750",
+        "locationGridRef": "SU03589679",
+        "x": 403580,
+        "y": 196790,
+        "receivingWaterCourse": "Shorncote Ditch",
+        "alertType": "Start",
+        "datetime": "2026-03-14T02:00:00"
+    },
+    {
+        "locationName": "Mogden",
+        "permitNumber": "CNTD.0085",
+        "locationGridRef": "TQ16757550",
+        "x": 516750,
+        "y": 175500,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T01:46:00"
+    },
+    {
+        "locationName": "Holmwood",
+        "permitNumber": "CTCR.1189",
+        "locationGridRef": "TQ18924492",
+        "x": 518920,
+        "y": 144920,
+        "receivingWaterCourse": "Holmwood Stream",
+        "alertType": "Start",
+        "datetime": "2026-03-14T01:45:00"
+    },
+    {
+        "locationName": "East Shefford",
+        "permitNumber": "CNTD.0032",
+        "locationGridRef": "SU39377449",
+        "x": 439370,
+        "y": 174490,
+        "receivingWaterCourse": "River Lambourne",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T01:45:00"
+    },
+    {
+        "locationName": "Burstow",
+        "permitNumber": "CASM.0095",
+        "locationGridRef": "TQ30394385",
+        "x": 530390,
+        "y": 143850,
+        "receivingWaterCourse": "Burstow Stream",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T01:45:00"
+    },
+    {
+        "locationName": "Horton-Cum-Studley",
+        "permitNumber": "CNTD.0008",
+        "locationGridRef": "SP60561199",
+        "x": 460560,
+        "y": 211990,
+        "receivingWaterCourse": "Danes Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T01:30:00"
+    },
+    {
+        "locationName": "Cirencester",
+        "permitNumber": "CTCR.1750",
+        "locationGridRef": "SU03589679",
+        "x": 403580,
+        "y": 196790,
+        "receivingWaterCourse": "Shorncote Ditch",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T01:15:00"
+    },
+    {
+        "locationName": "Bampton",
+        "permitNumber": "TEMP.2373",
+        "locationGridRef": "SP32300275",
+        "x": 432300,
+        "y": 202750,
+        "receivingWaterCourse": "Shill Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T01:00:00"
+    },
+    {
+        "locationName": "Selborne",
+        "permitNumber": "CTCR.0742",
+        "locationGridRef": "SU74583378",
+        "x": 474580,
+        "y": 133780,
+        "receivingWaterCourse": "Oakhanger Stream",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T01:00:00"
+    },
+    {
+        "locationName": "Holmwood",
+        "permitNumber": "CTCR.1189",
+        "locationGridRef": "TQ18924492",
+        "x": 518920,
+        "y": 144920,
+        "receivingWaterCourse": "Holmwood Stream",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T00:45:00"
+    },
+    {
+        "locationName": "Fairford",
+        "permitNumber": "CATM.3518",
+        "locationGridRef": "SP15660038",
+        "x": 415660,
+        "y": 200380,
+        "receivingWaterCourse": "River Coln",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T00:45:00"
+    },
+    {
+        "locationName": "Drayton (Oxon)",
+        "permitNumber": "CNTD.0030",
+        "locationGridRef": "SU48309332",
+        "x": 448300,
+        "y": 193320,
+        "receivingWaterCourse": "Ginge Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T00:30:00"
+    },
+    {
+        "locationName": "North Weald",
+        "permitNumber": "CTCR.2136",
+        "locationGridRef": "TL49570472",
+        "x": 549570,
+        "y": 204720,
+        "receivingWaterCourse": "North Weald Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T00:30:00"
+    },
+    {
+        "locationName": "Kingsclere",
+        "permitNumber": "CSSC.2340",
+        "locationGridRef": "SU53136086",
+        "x": 453130,
+        "y": 160860,
+        "receivingWaterCourse": "Kingsclere Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T00:15:00"
+    },
+    {
+        "locationName": "Basingstoke",
+        "permitNumber": "CTCR.0875",
+        "locationGridRef": "SU67805525",
+        "x": 467800,
+        "y": 155250,
+        "receivingWaterCourse": "Tributary of River Loddon",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T00:15:00"
+    },
+    {
+        "locationName": "Church Hanborough",
+        "permitNumber": "CSSC.5783",
+        "locationGridRef": "SP42231293",
+        "x": 442230,
+        "y": 212930,
+        "receivingWaterCourse": "Hanborough Stream",
+        "alertType": "Stop",
+        "datetime": "2026-03-14T00:00:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T23:54:00"
+    },
+    {
+        "locationName": "Reading",
+        "permitNumber": "CAWM.0942",
+        "locationGridRef": "SU71137072",
+        "x": 471130,
+        "y": 170720,
+        "receivingWaterCourse": "Foudry Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T23:45:00"
+    },
+    {
+        "locationName": "Earlswood (Reigate)",
+        "permitNumber": "CASM.0827",
+        "locationGridRef": "TQ27244801",
+        "x": 527240,
+        "y": 148010,
+        "receivingWaterCourse": "Earlswood Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T23:45:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T23:34:00"
+    },
+    {
+        "locationName": "Wanborough",
+        "permitNumber": "CSSC.2327",
+        "locationGridRef": "SU20168450",
+        "x": 420160,
+        "y": 184500,
+        "receivingWaterCourse": "Liden Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T23:30:00"
+    },
+    {
+        "locationName": "Fairford",
+        "permitNumber": "CATM.3518",
+        "locationGridRef": "SP15660038",
+        "x": 415660,
+        "y": 200380,
+        "receivingWaterCourse": "River Coln",
+        "alertType": "Start",
+        "datetime": "2026-03-13T23:30:00"
+    },
+    {
+        "locationName": "Bourton-On-The-Water",
+        "permitNumber": "CTCR.2036",
+        "locationGridRef": "SP17621907",
+        "x": 417620,
+        "y": 219070,
+        "receivingWaterCourse": "Groundwater",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T23:15:00"
+    },
+    {
+        "locationName": "Waddesdon",
+        "permitNumber": "CNTD.0052",
+        "locationGridRef": "SP74881795",
+        "x": 474880,
+        "y": 217950,
+        "receivingWaterCourse": "Fleet Marston Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T23:15:00"
+    },
+    {
+        "locationName": "Ripley",
+        "permitNumber": "CTCR.2150",
+        "locationGridRef": "TQ04495732",
+        "x": 504490,
+        "y": 157320,
+        "receivingWaterCourse": "River Wey",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T23:15:00"
+    },
+    {
+        "locationName": "Kingston Bagpuize",
+        "permitNumber": "CTCR.2011",
+        "locationGridRef": "SU40359753",
+        "x": 440350,
+        "y": 197530,
+        "receivingWaterCourse": "Bagpuize Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T23:15:00"
+    },
+    {
+        "locationName": "Little Hallingbury",
+        "permitNumber": "CSSC.0263",
+        "locationGridRef": "TL49441743",
+        "x": 549440,
+        "y": 217430,
+        "receivingWaterCourse": "Little Hallingbury Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T23:15:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T23:02:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T23:02:00"
+    },
+    {
+        "locationName": "Moreton-In-Marsh (Primrose Court)",
+        "permitNumber": "CTCR.2093",
+        "locationGridRef": "SP209322",
+        "x": 420900,
+        "y": 232200,
+        "receivingWaterCourse": "River Evenlode",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T23:00:00"
+    },
+    {
+        "locationName": "Wanborough",
+        "permitNumber": "CSSC.2327",
+        "locationGridRef": "SU20168450",
+        "x": 420160,
+        "y": 184500,
+        "receivingWaterCourse": "Liden Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T23:00:00"
+    },
+    {
+        "locationName": "Bourton-On-The-Water",
+        "permitNumber": "CTCR.2036",
+        "locationGridRef": "SP17621907",
+        "x": 417620,
+        "y": 219070,
+        "receivingWaterCourse": "Groundwater",
+        "alertType": "Start",
+        "datetime": "2026-03-13T22:45:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T22:38:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T22:32:00"
+    },
+    {
+        "locationName": "Brickendon",
+        "permitNumber": "CLCP.0173",
+        "locationGridRef": "TL32360843",
+        "x": 532360,
+        "y": 208430,
+        "receivingWaterCourse": "Harmonds Brook West Arm",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T22:30:00"
+    },
+    {
+        "locationName": "Fairford",
+        "permitNumber": "CATM.3518",
+        "locationGridRef": "SP15660038",
+        "x": 415660,
+        "y": 200380,
+        "receivingWaterCourse": "River Coln",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T22:30:00"
+    },
+    {
+        "locationName": "Bourton-On-The-Water",
+        "permitNumber": "CTCR.2036",
+        "locationGridRef": "SP17621907",
+        "x": 417620,
+        "y": 219070,
+        "receivingWaterCourse": "Groundwater",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T22:15:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T22:06:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T22:02:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T21:56:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T21:48:00"
+    },
+    {
+        "locationName": "Ludgershall",
+        "permitNumber": "CSSC.1406",
+        "locationGridRef": "SP66111863",
+        "x": 466110,
+        "y": 218630,
+        "receivingWaterCourse": "Ludgershall Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T21:45:00"
+    },
+    {
+        "locationName": "Wanborough",
+        "permitNumber": "CSSC.2327",
+        "locationGridRef": "SU20168450",
+        "x": 420160,
+        "y": 184500,
+        "receivingWaterCourse": "Liden Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T21:45:00"
+    },
+    {
+        "locationName": "Little Hallingbury",
+        "permitNumber": "CSSC.0263",
+        "locationGridRef": "TL49441743",
+        "x": 549440,
+        "y": 217430,
+        "receivingWaterCourse": "Little Hallingbury Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T21:15:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T20:50:00"
+    },
+    {
+        "locationName": "Wanborough",
+        "permitNumber": "CSSC.2327",
+        "locationGridRef": "SU20168450",
+        "x": 420160,
+        "y": 184500,
+        "receivingWaterCourse": "Liden Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T20:45:00"
+    },
+    {
+        "locationName": "Thornwood",
+        "permitNumber": "CSSC.1445",
+        "locationGridRef": "TL477050",
+        "x": 547700,
+        "y": 205000,
+        "receivingWaterCourse": "Cripsey Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T20:45:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T20:40:00"
+    },
+    {
+        "locationName": "Church Hanborough",
+        "permitNumber": "CSSC.5783",
+        "locationGridRef": "SP42231293",
+        "x": 442230,
+        "y": 212930,
+        "receivingWaterCourse": "Hanborough Stream",
+        "alertType": "Start",
+        "datetime": "2026-03-13T20:15:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T20:14:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T20:10:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T19:40:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T19:30:00"
+    },
+    {
+        "locationName": "Ludgershall",
+        "permitNumber": "CSSC.1406",
+        "locationGridRef": "SP66111863",
+        "x": 466110,
+        "y": 218630,
+        "receivingWaterCourse": "Ludgershall Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T19:30:00"
+    },
+    {
+        "locationName": "Hanwell",
+        "permitNumber": "TEMP.2648",
+        "locationGridRef": "SP43784364",
+        "x": 443780,
+        "y": 243640,
+        "receivingWaterCourse": "Hanwell Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T19:30:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T19:12:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T19:04:00"
+    },
+    {
+        "locationName": "Ludgershall",
+        "permitNumber": "CSSC.1406",
+        "locationGridRef": "SP66111863",
+        "x": 466110,
+        "y": 218630,
+        "receivingWaterCourse": "Ludgershall Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T19:00:00"
+    },
+    {
+        "locationName": "Thornwood",
+        "permitNumber": "CSSC.1445",
+        "locationGridRef": "TL477050",
+        "x": 547700,
+        "y": 205000,
+        "receivingWaterCourse": "Cripsey Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T19:00:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T18:48:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T18:40:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T18:36:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T18:34:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T18:16:00"
+    },
+    {
+        "locationName": "Wanborough",
+        "permitNumber": "CSSC.2327",
+        "locationGridRef": "SU20168450",
+        "x": 420160,
+        "y": 184500,
+        "receivingWaterCourse": "Liden Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T18:15:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T18:14:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T18:12:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T18:10:00"
+    },
+    {
+        "locationName": "Thornwood",
+        "permitNumber": "CSSC.1445",
+        "locationGridRef": "TL477050",
+        "x": 547700,
+        "y": 205000,
+        "receivingWaterCourse": "Cripsey Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T18:00:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T17:58:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T17:54:00"
+    },
+    {
+        "locationName": "Ludgershall",
+        "permitNumber": "CSSC.1406",
+        "locationGridRef": "SP66111863",
+        "x": 466110,
+        "y": 218630,
+        "receivingWaterCourse": "Ludgershall Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T17:45:00"
+    },
+    {
+        "locationName": "Kingston Bagpuize",
+        "permitNumber": "CTCR.2011",
+        "locationGridRef": "SU40359753",
+        "x": 440350,
+        "y": 197530,
+        "receivingWaterCourse": "Bagpuize Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T17:45:00"
+    },
+    {
+        "locationName": "Wanborough",
+        "permitNumber": "CSSC.2327",
+        "locationGridRef": "SU20168450",
+        "x": 420160,
+        "y": 184500,
+        "receivingWaterCourse": "Liden Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T17:45:00"
+    },
+    {
+        "locationName": "Willingale",
+        "permitNumber": "CSSC.1456",
+        "locationGridRef": "TL58950707",
+        "x": 558950,
+        "y": 207070,
+        "receivingWaterCourse": "Tributary of River Roding",
+        "alertType": "Start",
+        "datetime": "2026-03-13T17:45:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T17:44:00"
+    },
+    {
+        "locationName": "Hanwell",
+        "permitNumber": "TEMP.2648",
+        "locationGridRef": "SP43784364",
+        "x": 443780,
+        "y": 243640,
+        "receivingWaterCourse": "Hanwell Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T17:30:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Start",
+        "datetime": "2026-03-13T17:28:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T17:24:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T17:24:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T17:22:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T17:18:00"
+    },
+    {
+        "locationName": "Thornwood",
+        "permitNumber": "CSSC.1445",
+        "locationGridRef": "TL477050",
+        "x": 547700,
+        "y": 205000,
+        "receivingWaterCourse": "Cripsey Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T17:15:00"
+    },
+    {
+        "locationName": "Bourton-On-The-Water",
+        "permitNumber": "CTCR.2036",
+        "locationGridRef": "SP17621907",
+        "x": 417620,
+        "y": 219070,
+        "receivingWaterCourse": "Groundwater",
+        "alertType": "Start",
+        "datetime": "2026-03-13T17:00:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Start",
+        "datetime": "2026-03-13T16:48:00"
+    },
+    {
+        "locationName": "Ludgershall",
+        "permitNumber": "CSSC.1406",
+        "locationGridRef": "SP66111863",
+        "x": 466110,
+        "y": 218630,
+        "receivingWaterCourse": "Ludgershall Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T16:45:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T16:44:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T16:40:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T16:38:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T16:30:00"
+    },
+    {
+        "locationName": "Highworth",
+        "permitNumber": "CNTD.0075",
+        "locationGridRef": "SU19799377",
+        "x": 419790,
+        "y": 193770,
+        "receivingWaterCourse": "Westrop Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T16:30:00"
+    },
+    {
+        "locationName": "Thornwood",
+        "permitNumber": "CSSC.1445",
+        "locationGridRef": "TL477050",
+        "x": 547700,
+        "y": 205000,
+        "receivingWaterCourse": "Cripsey Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T16:30:00"
+    },
+    {
+        "locationName": "Wanborough",
+        "permitNumber": "CSSC.2327",
+        "locationGridRef": "SU20168450",
+        "x": 420160,
+        "y": 184500,
+        "receivingWaterCourse": "Liden Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T16:15:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T16:10:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T16:06:00"
+    },
+    {
+        "locationName": "Fairford",
+        "permitNumber": "CATM.3518",
+        "locationGridRef": "SP15660038",
+        "x": 415660,
+        "y": 200380,
+        "receivingWaterCourse": "River Coln",
+        "alertType": "Start",
+        "datetime": "2026-03-13T16:00:00"
+    },
+    {
+        "locationName": "Crossness",
+        "permitNumber": "CSSA.0362",
+        "locationGridRef": "TQ48508117",
+        "x": 548500,
+        "y": 181170,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T16:00:00"
+    },
+    {
+        "locationName": "Moreton-In-Marsh (Primrose Court)",
+        "permitNumber": "CTCR.2093",
+        "locationGridRef": "SP209322",
+        "x": 420900,
+        "y": 232200,
+        "receivingWaterCourse": "River Evenlode",
+        "alertType": "Start",
+        "datetime": "2026-03-13T16:00:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T15:54:00"
+    },
+    {
+        "locationName": "Bourton-On-The-Water",
+        "permitNumber": "CTCR.2036",
+        "locationGridRef": "SP17621907",
+        "x": 417620,
+        "y": 219070,
+        "receivingWaterCourse": "Groundwater",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T15:45:00"
+    },
+    {
+        "locationName": "Wanborough",
+        "permitNumber": "CSSC.2327",
+        "locationGridRef": "SU20168450",
+        "x": 420160,
+        "y": 184500,
+        "receivingWaterCourse": "Liden Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T15:45:00"
+    },
+    {
+        "locationName": "Selborne",
+        "permitNumber": "CTCR.0742",
+        "locationGridRef": "SU74583378",
+        "x": 474580,
+        "y": 133780,
+        "receivingWaterCourse": "Oakhanger Stream",
+        "alertType": "Start",
+        "datetime": "2026-03-13T15:45:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T15:42:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T15:36:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Start",
+        "datetime": "2026-03-13T15:32:00"
+    },
+    {
+        "locationName": "Moreton-In-Marsh (Primrose Court)",
+        "permitNumber": "CTCR.2093",
+        "locationGridRef": "SP209322",
+        "x": 420900,
+        "y": 232200,
+        "receivingWaterCourse": "River Evenlode",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T15:30:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T15:28:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T15:24:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T15:16:00"
+    },
+    {
+        "locationName": "Hornton",
+        "permitNumber": "CSSC.1383",
+        "locationGridRef": "SP39694476",
+        "x": 439690,
+        "y": 244760,
+        "receivingWaterCourse": "Hornton Stream",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T15:15:00"
+    },
+    {
+        "locationName": "Wanborough",
+        "permitNumber": "CSSC.2327",
+        "locationGridRef": "SU20168450",
+        "x": 420160,
+        "y": 184500,
+        "receivingWaterCourse": "Liden Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T15:15:00"
+    },
+    {
+        "locationName": "Theydon Bois",
+        "permitNumber": "TEMP.2954",
+        "locationGridRef": "TQ476977",
+        "x": 547600,
+        "y": 197700,
+        "receivingWaterCourse": "Brookhouse Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T15:15:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T15:04:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T14:56:00"
+    },
+    {
+        "locationName": "Selborne",
+        "permitNumber": "CTCR.0742",
+        "locationGridRef": "SU74583378",
+        "x": 474580,
+        "y": 133780,
+        "receivingWaterCourse": "Oakhanger Stream",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T14:45:00"
+    },
+    {
+        "locationName": "Bledington",
+        "permitNumber": "TEMP.2395",
+        "locationGridRef": "SP25072282",
+        "x": 425070,
+        "y": 222820,
+        "receivingWaterCourse": "Bledington Brook ",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T14:45:00"
+    },
+    {
+        "locationName": "Fairford",
+        "permitNumber": "CATM.3518",
+        "locationGridRef": "SP15660038",
+        "x": 415660,
+        "y": 200380,
+        "receivingWaterCourse": "River Coln",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T14:45:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Start",
+        "datetime": "2026-03-13T14:40:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T14:40:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T14:36:00"
+    },
+    {
+        "locationName": "Newbury",
+        "permitNumber": "TEMP.2805",
+        "locationGridRef": "SU499667",
+        "x": 449900,
+        "y": 166700,
+        "receivingWaterCourse": "River Kennet",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T14:36:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T14:20:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T14:16:00"
+    },
+    {
+        "locationName": "Ash Ridge (Wokingham)",
+        "permitNumber": "TEMP.3020",
+        "locationGridRef": "SU81267006",
+        "x": 481260,
+        "y": 170060,
+        "receivingWaterCourse": "Ashridge Stream",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T14:15:00"
+    },
+    {
+        "locationName": "Wanborough",
+        "permitNumber": "CSSC.2327",
+        "locationGridRef": "SU20168450",
+        "x": 420160,
+        "y": 184500,
+        "receivingWaterCourse": "Liden Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T14:15:00"
+    },
+    {
+        "locationName": "Bourton-On-The-Water",
+        "permitNumber": "CTCR.2036",
+        "locationGridRef": "SP17621907",
+        "x": 417620,
+        "y": 219070,
+        "receivingWaterCourse": "Groundwater",
+        "alertType": "Start",
+        "datetime": "2026-03-13T14:15:00"
+    },
+    {
+        "locationName": "Basingstoke",
+        "permitNumber": "CTCR.0875",
+        "locationGridRef": "SU67805525",
+        "x": 467800,
+        "y": 155250,
+        "receivingWaterCourse": "Tributary of River Loddon",
+        "alertType": "Start",
+        "datetime": "2026-03-13T13:45:00"
+    },
+    {
+        "locationName": "Kingston Bagpuize",
+        "permitNumber": "CTCR.2011",
+        "locationGridRef": "SU40359753",
+        "x": 440350,
+        "y": 197530,
+        "receivingWaterCourse": "Bagpuize Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T13:45:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Start",
+        "datetime": "2026-03-13T13:42:00"
+    },
+    {
+        "locationName": "Windsor",
+        "permitNumber": "TEMP.3014",
+        "locationGridRef": "SU997750",
+        "x": 499700,
+        "y": 175000,
+        "receivingWaterCourse": "River Thames",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T13:38:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T13:20:00"
+    },
+    {
+        "locationName": "St Stephens Hall (Little London)",
+        "permitNumber": "TEMP.1644",
+        "locationGridRef": "SU623593",
+        "x": 462300,
+        "y": 159300,
+        "receivingWaterCourse": "Bow Brook",
+        "alertType": "Start",
+        "datetime": "2026-03-13T13:16:00"
+    },
+    {
+        "locationName": "Milton-Under-Wychwood",
+        "permitNumber": "TEMP.2776",
+        "locationGridRef": "SP274184",
+        "x": 427400,
+        "y": 218400,
+        "receivingWaterCourse": "Littlestock Brook",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T13:15:00"
+    },
+    {
+        "locationName": "Bourton-On-The-Water",
+        "permitNumber": "CTCR.2036",
+        "locationGridRef": "SP17621907",
+        "x": 417620,
+        "y": 219070,
+        "receivingWaterCourse": "Groundwater",
+        "alertType": "Stop",
+        "datetime": "2026-03-13T13:15:00"
+    }
+]

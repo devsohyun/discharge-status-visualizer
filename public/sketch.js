@@ -5,7 +5,9 @@ let gap = 30;
 let cols, rows;
 let positions = [];
 let depthLayers = 5;
+let colors = [];
 
+// hover state
 let hoveredIndex = -1;
 let previousHover = -1;
 
@@ -13,30 +15,16 @@ let previousHover = -1;
 let jsonData;
 let data = [];
 
+// load JSON data from the specified path
 function preload() {
-  jsonData = loadJSON('/discharge/status/data.json');
+  jsonData = loadJSON('/discharge/status/latest.json');
 }
 
-// let cam = {
-//   x: 0,
-//   y: 0,
-//   z: 0,
-//   th: 0,
-//   phi: 0,
-//   lookAt: {
-//     x: 0,
-//     y: 0,
-//     z: 0,
-//   }
-// }
-
 function setup() {
-  createCanvas(windowWidth, windowHeight, WEBGL); //webgl: (0,0) = center of canvas
+  createCanvas(windowWidth, windowHeight, WEBGL); // webgl: (0,0) = center of canvas
 
   // if it's an object, convert to array
   data = Object.values(jsonData);
-
-  console.log('data length:', data.length);
 
   calculateGrid();
   generatePositions();
@@ -49,19 +37,25 @@ function windowResized() {
 }
 
 function calculateGrid() {
+  // calculate number of columns and rows based on canvas size and cell size
   cols = floor((width - gap) / (cellW + gap));
   rows = ceil(data.length / cols);
 }
 
 function generatePositions() {
+  // reset positions and colors for each data point in a grid layout
   positions = [];
+  colors = [];
 
+  // calculate total grid width and height
   let totalGridWidth = cols * (cellW + gap) - gap;
   let totalGridHeight = rows * (cellH + gap) - gap;
 
+  // start position to center the grid
   let startX = -totalGridWidth / 2;
   let startY = -totalGridHeight / 2;
 
+  // generate positions and colors for each data point
   for (let i = 0; i < data.length; i++) {
     let col = i % cols;
     let row = floor(i / cols);
@@ -70,12 +64,8 @@ function generatePositions() {
     let y = startY + row * (cellH + gap);
 
     positions.push(createVector(x, y, 0));
-  }
-}
-
-function generateDummyData(n) {
-  for (let i = 0; i < n; i++) {
-    data.push({ id: i, title: 'Item ' + i });
+    // create a random color with more green and less red/blue
+    colors.push(color(random(20, 50), random(40, 80), random(20, 50)));
   }
 }
 
@@ -102,15 +92,15 @@ function updateInfoPanel(index) {
 function draw() {
   background(30);
   orbitControl();
-  // ambientLight(225);
-  // translate(0,0, mouseX)
-  // camera(0, 0, height / 2 / tan(PI / 6), 0, 0, 0, 0, 1, 0);
 
+  // determine which cell is hovered
   hoveredIndex = -1;
 
+  // convert mouse position to world coordinates
   let worldMouseX = mouseX - width / 2;
   let worldMouseY = mouseY - height / 2;
 
+  // check each cell's position against the mouse position
   for (let i = 0; i < positions.length; i++) {
     let x = positions[i].x;
     let y = positions[i].y;
@@ -124,6 +114,7 @@ function draw() {
       hoveredIndex = i;
     }
 
+    // draw depth layers for each cell
     for (let d = 0; d < depthLayers; d++) {
       push();
       translate(x, y, -d * 30);
@@ -134,12 +125,15 @@ function draw() {
       } else {
         // not hovered
         fill(100, 255 - d * 60);
+        let c = colors[i];
+        fill(red(c), green(c), blue(c), 255 - d * 60);
       }
       plane(cellW, cellH);
       pop();
     }
   }
 
+  // update info panel only when hovered index changes
   if (hoveredIndex !== previousHover) {
     updateInfoPanel(hoveredIndex);
     previousHover = hoveredIndex;
