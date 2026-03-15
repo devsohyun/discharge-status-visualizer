@@ -6,7 +6,7 @@ import requests
 
 # --- API Configuration ---
 BASE_URL = "https://api.thameswater.co.uk/opendata/v2"
-ENDPOINT = "/discharge/status"  # ✅ Fixed: was "/discharge/discharge"
+ENDPOINT = "/discharge/status"
 FULL_URL = f"{BASE_URL}{ENDPOINT}"
 
 # --- Time ---
