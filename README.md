@@ -19,12 +19,14 @@ system and its existence as a network of lost rivers.
 
 ### Dependencies
 
-Install packages in terminal:
+Install packages in terminal.
 ```bash
 npm install
 ```
 
 ### Running the Program
+
+Check number 2 from [Known Issue](https://github.com/devsohyun/discharge-status-visualizer?tab=readme-ov-file#known-issue).
 ```bash
 node app.js
 ```
