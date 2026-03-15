@@ -2,6 +2,8 @@
 
 Thames Water storm discharge visualizer
 
+Link to Git [repository](https://github.com/devsohyun/discharge-status-visualizer)
+
 ## Description
 
 London has multiple rivers that were buried underground, which once flowed into the River
