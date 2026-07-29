@@ -7,10 +7,10 @@
         "y": 178150,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:46:00",
+        "statusChanged": "2025-07-19T11:36:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:12:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:46:00",
+        "mostRecentDischargeAlertStart": "2025-07-19T11:14:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T11:36:00",
         "uniqueId": "TWL00280"
     },
     {
@@ -33,10 +33,10 @@
         "y": 211090,
         "receivingWaterCourse": "Coopers Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-06T07:30:00",
+        "statusChanged": "2026-03-20T09:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-06T07:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-06T07:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-20T08:15:00",
+        "mostRecentDischargeAlertStop": "2026-03-20T09:15:00",
         "uniqueId": "TWL00002"
     },
     {
@@ -47,7 +47,7 @@
         "y": 183140,
         "receivingWaterCourse": "River Lee (Channelsea River South)",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T17:18:00",
+        "statusChanged": "2026-03-02T12:08:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2024-05-02T06:00:00",
         "mostRecentDischargeAlertStop": "2024-05-02T08:14:00",
@@ -60,9 +60,11 @@
         "x": 519114,
         "y": 183508,
         "receivingWaterCourse": "River Brent",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-27T07:50:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2025-07-19T13:18:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-07-19T10:44:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T13:18:00",
         "uniqueId": "TWL00468"
     },
     {
@@ -87,10 +89,10 @@
         "y": 178020,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T09:04:00",
+        "statusChanged": "2026-04-28T15:54:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T08:52:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T09:04:00",
+        "mostRecentDischargeAlertStart": "2025-07-19T11:26:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T21:58:00",
         "uniqueId": "TWL00005"
     },
     {
@@ -129,10 +131,10 @@
         "y": 150500,
         "receivingWaterCourse": "River Blackwater",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T08:00:00",
+        "statusChanged": "2026-02-06T15:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T07:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T08:00:00",
+        "mostRecentDischargeAlertStart": "2026-02-06T14:30:00",
+        "mostRecentDischargeAlertStop": "2026-02-06T15:30:00",
         "uniqueId": "TWL00007"
     },
     {
@@ -142,9 +144,11 @@
         "x": 517254,
         "y": 189033,
         "receivingWaterCourse": "Wealdstone Brook",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-05-08T05:00:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-03-22T16:10:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-03-22T16:02:00",
+        "mostRecentDischargeAlertStop": "2026-03-22T16:10:00",
         "uniqueId": "TWL00474"
     },
     {
@@ -155,7 +159,7 @@
         "y": 185100,
         "receivingWaterCourse": "Wembley Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-30T11:15:00",
+        "statusChanged": "2022-04-01T00:00:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00008"
     },
@@ -194,7 +198,7 @@
         "receivingWaterCourse": "Ampney Brook",
         "alertStatus": "Not discharging",
         "statusChanged": "2026-05-05T10:30:00",
-        "alertPast48Hours": false,
+        "alertPast48Hours": true,
         "mostRecentDischargeAlertStart": "2026-05-05T10:00:00",
         "mostRecentDischargeAlertStop": "2026-05-05T10:30:00",
         "uniqueId": "TWL00010"
@@ -219,10 +223,10 @@
         "y": 219860,
         "receivingWaterCourse": "River Coln",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-20T04:00:00",
+        "statusChanged": "2026-02-28T23:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-19T19:45:00",
-        "mostRecentDischargeAlertStop": "2026-05-20T04:00:00",
+        "mostRecentDischargeAlertStart": "2026-02-28T10:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-28T23:15:00",
         "uniqueId": "TWL00011"
     },
     {
@@ -331,10 +335,10 @@
         "y": 186390,
         "receivingWaterCourse": "Tributary of Dagenham Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T10:28:00",
+        "statusChanged": "2026-02-15T20:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:38:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T10:28:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T19:06:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T20:00:00",
         "uniqueId": "TWL00019"
     },
     {
@@ -427,10 +431,10 @@
         "y": 241710,
         "receivingWaterCourse": "Middleton Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T17:48:00",
+        "statusChanged": "2026-04-05T13:26:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T17:26:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T17:48:00",
+        "mostRecentDischargeAlertStart": "2026-04-05T13:20:00",
+        "mostRecentDischargeAlertStop": "2026-04-05T13:26:00",
         "uniqueId": "TWL00479"
     },
     {
@@ -441,10 +445,10 @@
         "y": 192541,
         "receivingWaterCourse": "Lower Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T11:30:00",
+        "statusChanged": "2026-03-10T14:04:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-13T11:26:00",
-        "mostRecentDischargeAlertStop": "2026-07-13T11:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-10T13:58:00",
+        "mostRecentDischargeAlertStop": "2026-03-10T14:04:00",
         "uniqueId": "TWL00480"
     },
     {
@@ -509,10 +513,10 @@
         "y": 181610,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T09:42:00",
+        "statusChanged": "2025-12-03T11:58:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T09:10:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T09:42:00",
+        "mostRecentDischargeAlertStart": "2025-12-03T11:06:00",
+        "mostRecentDischargeAlertStop": "2025-12-03T11:58:00",
         "uniqueId": "TWL00029"
     },
     {
@@ -523,10 +527,10 @@
         "y": 166330,
         "receivingWaterCourse": "River Wandle",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T19:00:00",
+        "statusChanged": "2025-12-18T19:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T18:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T19:00:00",
+        "mostRecentDischargeAlertStart": "2025-12-18T17:30:00",
+        "mostRecentDischargeAlertStop": "2025-12-18T19:45:00",
         "uniqueId": "TWL00030"
     },
     {
@@ -537,10 +541,10 @@
         "y": 191400,
         "receivingWaterCourse": "Ching Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T06:30:00",
+        "statusChanged": "2026-04-13T16:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T06:30:00",
+        "mostRecentDischargeAlertStart": "2026-04-13T15:45:00",
+        "mostRecentDischargeAlertStop": "2026-04-13T16:45:00",
         "uniqueId": "TWL00393"
     },
     {
@@ -551,10 +555,10 @@
         "y": 169410,
         "receivingWaterCourse": "Webbs Lane Stream",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T07:15:00",
+        "statusChanged": "2026-03-13T07:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T06:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T07:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T07:30:00",
         "uniqueId": "TWL00031"
     },
     {
@@ -565,10 +569,10 @@
         "y": 180540,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:28:00",
+        "statusChanged": "2026-05-01T13:18:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:10:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:28:00",
+        "mostRecentDischargeAlertStart": "2026-05-01T13:14:00",
+        "mostRecentDischargeAlertStop": "2026-05-01T13:18:00",
         "uniqueId": "TWL00282"
     },
     {
@@ -579,10 +583,10 @@
         "y": 180710,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:38:00",
+        "statusChanged": "2025-05-23T09:22:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:20:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:38:00",
+        "mostRecentDischargeAlertStart": "2024-10-08T10:10:00",
+        "mostRecentDischargeAlertStop": "2024-10-08T10:16:00",
         "uniqueId": "TWL00033"
     },
     {
@@ -675,10 +679,8 @@
         "y": 222349,
         "receivingWaterCourse": "River Lee",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T01:14:00",
+        "statusChanged": "2023-10-24T19:58:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T00:22:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T01:14:00",
         "uniqueId": "TWL00669"
     },
     {
@@ -787,10 +789,10 @@
         "y": 252410,
         "receivingWaterCourse": "Feeder to Boddington Canal",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-15T13:30:00",
+        "statusChanged": "2026-03-22T02:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-15T08:30:00",
-        "mostRecentDischargeAlertStop": "2026-07-15T13:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-22T00:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-22T02:15:00",
         "uniqueId": "TWL00047"
     },
     {
@@ -829,10 +831,10 @@
         "y": 152300,
         "receivingWaterCourse": "Groundwater",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-24T11:00:00",
+        "statusChanged": "2026-04-26T19:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-13T02:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-13T03:00:00",
+        "mostRecentDischargeAlertStart": "2026-04-26T12:30:00",
+        "mostRecentDischargeAlertStop": "2026-04-26T19:30:00",
         "uniqueId": "TWL00050"
     },
     {
@@ -843,10 +845,10 @@
         "y": 189156,
         "receivingWaterCourse": "Dollis Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:00:00",
+        "statusChanged": "2026-03-13T02:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:30:00",
         "uniqueId": "TWL00484"
     },
     {
@@ -857,10 +859,10 @@
         "y": 172050,
         "receivingWaterCourse": "The Cut",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-03T14:15:00",
+        "statusChanged": "2026-02-17T01:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-03T12:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-03T14:15:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T14:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-17T01:45:00",
         "uniqueId": "TWL00051"
     },
     {
@@ -885,7 +887,7 @@
         "y": 187934,
         "receivingWaterCourse": "Dollis Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-19T12:45:00",
+        "statusChanged": "2024-09-13T07:45:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2024-08-20T03:15:00",
         "mostRecentDischargeAlertStop": "2024-08-20T04:00:00",
@@ -899,10 +901,10 @@
         "y": 180771,
         "receivingWaterCourse": "River Brent",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:04:00",
+        "statusChanged": "2026-03-13T04:20:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:44:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:04:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T01:40:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T04:20:00",
         "uniqueId": "TWL00489"
     },
     {
@@ -913,10 +915,8 @@
         "y": 187970,
         "receivingWaterCourse": "River Brent",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:00:00",
+        "statusChanged": "2025-10-03T07:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:00:00",
         "uniqueId": "TWL00491"
     },
     {
@@ -927,10 +927,10 @@
         "y": 187970,
         "receivingWaterCourse": "River Brent",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:30:00",
+        "statusChanged": "2026-03-13T04:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T04:30:00",
         "uniqueId": "TWL00053"
     },
     {
@@ -954,9 +954,11 @@
         "x": 530220,
         "y": 178150,
         "receivingWaterCourse": "River Thames (via the Tideway tunnel)",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-29T07:56:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-05T14:36:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-07-19T19:20:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T21:20:00",
         "uniqueId": "TWL00810"
     },
     {
@@ -981,10 +983,10 @@
         "y": 149600,
         "receivingWaterCourse": "River Mole",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-21T10:45:00",
+        "statusChanged": "2026-02-24T20:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-21T10:15:00",
-        "mostRecentDischargeAlertStop": "2026-05-21T10:45:00",
+        "mostRecentDischargeAlertStart": "2026-02-24T18:45:00",
+        "mostRecentDischargeAlertStop": "2026-02-24T20:45:00",
         "uniqueId": "TWL00058"
     },
     {
@@ -995,10 +997,10 @@
         "y": 193190,
         "receivingWaterCourse": "Chigwell Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:30:00",
+        "statusChanged": "2026-05-03T23:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:30:00",
+        "mostRecentDischargeAlertStart": "2026-05-03T22:45:00",
+        "mostRecentDischargeAlertStop": "2026-05-03T23:15:00",
         "uniqueId": "TWL00059"
     },
     {
@@ -1009,7 +1011,7 @@
         "y": 182400,
         "receivingWaterCourse": "River Ray",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-07T07:30:00",
+        "statusChanged": "2026-02-16T08:00:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-01-27T11:00:00",
         "mostRecentDischargeAlertStop": "2026-01-27T17:00:00",
@@ -1023,7 +1025,7 @@
         "y": 169870,
         "receivingWaterCourse": "Briff Lane Stream",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-10T10:15:00",
+        "statusChanged": "2026-03-13T10:00:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-03-13T07:30:00",
         "mostRecentDischargeAlertStop": "2026-03-13T10:00:00",
@@ -1093,10 +1095,10 @@
         "y": 143850,
         "receivingWaterCourse": "Burstow Stream",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-09T09:45:00",
+        "statusChanged": "2026-03-14T01:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-08T20:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-09T09:45:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T09:15:00",
+        "mostRecentDischargeAlertStop": "2026-03-14T01:45:00",
         "uniqueId": "TWL00065"
     },
     {
@@ -1120,9 +1122,11 @@
         "x": 509197,
         "y": 221378,
         "receivingWaterCourse": "River Lee",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-22T04:00:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2025-10-30T04:20:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-10-30T04:02:00",
+        "mostRecentDischargeAlertStop": "2025-10-30T04:20:00",
         "uniqueId": "TWL00500"
     },
     {
@@ -1133,10 +1137,10 @@
         "y": 252560,
         "receivingWaterCourse": "Byfield Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-27T00:45:00",
+        "statusChanged": "2026-02-28T16:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-27T00:15:00",
-        "mostRecentDischargeAlertStop": "2026-05-27T00:45:00",
+        "mostRecentDischargeAlertStart": "2026-02-28T07:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-28T16:00:00",
         "uniqueId": "TWL00067"
     },
     {
@@ -1161,10 +1165,10 @@
         "y": 216320,
         "receivingWaterCourse": "Mus Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-10T06:30:00",
+        "statusChanged": "2025-08-29T10:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-10T06:00:00",
-        "mostRecentDischargeAlertStop": "2026-05-10T06:30:00",
+        "mostRecentDischargeAlertStart": "2025-08-29T09:15:00",
+        "mostRecentDischargeAlertStop": "2025-08-29T10:30:00",
         "uniqueId": "TWL00069"
     },
     {
@@ -1203,7 +1207,7 @@
         "y": 139700,
         "receivingWaterCourse": "Thornhurst Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-26T13:30:00",
+        "statusChanged": "2026-02-15T18:15:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-02-15T17:15:00",
         "mostRecentDischargeAlertStop": "2026-02-15T18:15:00",
@@ -1217,10 +1221,10 @@
         "y": 166710,
         "receivingWaterCourse": "River Wandle",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:45:00",
+        "statusChanged": "2025-12-18T08:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T04:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:45:00",
+        "mostRecentDischargeAlertStart": "2024-09-23T00:45:00",
+        "mostRecentDischargeAlertStop": "2024-09-23T03:00:00",
         "uniqueId": "TWL00073"
     },
     {
@@ -1259,10 +1263,10 @@
         "y": 204860,
         "receivingWaterCourse": "Shill Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-04T00:30:00",
+        "statusChanged": "2026-04-14T20:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-04T00:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-04T00:30:00",
+        "mostRecentDischargeAlertStart": "2026-04-14T20:00:00",
+        "mostRecentDischargeAlertStop": "2026-04-14T20:30:00",
         "uniqueId": "TWL00074"
     },
     {
@@ -1273,10 +1277,10 @@
         "y": 193500,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T12:45:00",
+        "statusChanged": "2026-04-13T18:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T12:45:00",
+        "mostRecentDischargeAlertStart": "2026-04-13T16:45:00",
+        "mostRecentDischargeAlertStop": "2026-04-13T18:00:00",
         "uniqueId": "TWL00805"
     },
     {
@@ -1399,7 +1403,7 @@
         "y": 219180,
         "receivingWaterCourse": "River Evenlode",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-16T08:30:00",
+        "statusChanged": "2026-02-19T01:30:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-02-18T23:30:00",
         "mostRecentDischargeAlertStop": "2026-02-19T01:30:00",
@@ -1413,10 +1417,10 @@
         "y": 179290,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-30T08:16:00",
+        "statusChanged": "2024-09-23T06:08:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-30T08:12:00",
-        "mostRecentDischargeAlertStop": "2026-06-30T08:16:00",
+        "mostRecentDischargeAlertStart": "2024-09-23T06:02:00",
+        "mostRecentDischargeAlertStop": "2024-09-23T06:08:00",
         "uniqueId": "TWL00084"
     },
     {
@@ -1427,7 +1431,7 @@
         "y": 179290,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T17:15:00",
+        "statusChanged": "2023-07-11T21:30:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00505"
     },
@@ -1481,10 +1485,10 @@
         "y": 177796,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-10T10:34:00",
+        "statusChanged": "2025-08-12T07:24:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-20T09:32:00",
-        "mostRecentDischargeAlertStop": "2026-05-20T09:46:00",
+        "mostRecentDischargeAlertStart": "2024-09-23T03:12:00",
+        "mostRecentDischargeAlertStop": "2024-09-23T10:00:00",
         "uniqueId": "TWL00087"
     },
     {
@@ -1494,9 +1498,11 @@
         "x": 501700,
         "y": 168100,
         "receivingWaterCourse": "River Bourne",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-24T14:15:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-02-24T01:30:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-02-23T17:15:00",
+        "mostRecentDischargeAlertStop": "2026-02-24T01:30:00",
         "uniqueId": "TWL00088"
     },
     {
@@ -1549,10 +1555,10 @@
         "y": 191100,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:12:00",
+        "statusChanged": "2026-04-13T16:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:34:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:12:00",
+        "mostRecentDischargeAlertStart": "2026-04-13T15:42:00",
+        "mostRecentDischargeAlertStop": "2026-04-13T16:00:00",
         "uniqueId": "TWL00515"
     },
     {
@@ -1563,10 +1569,10 @@
         "y": 191100,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:10:00",
+        "statusChanged": "2025-10-31T21:12:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:06:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:10:00",
+        "mostRecentDischargeAlertStart": "2025-10-31T20:44:00",
+        "mostRecentDischargeAlertStop": "2025-10-31T21:12:00",
         "uniqueId": "TWL00783"
     },
     {
@@ -1577,7 +1583,7 @@
         "y": 191100,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Offline",
-        "statusChanged": "2026-05-03T21:00:00",
+        "statusChanged": "2026-04-22T19:00:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00784"
     },
@@ -1589,10 +1595,8 @@
         "y": 191100,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-04T17:00:00",
+        "statusChanged": "2026-03-24T08:40:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-04T16:50:00",
-        "mostRecentDischargeAlertStop": "2026-06-04T17:00:00",
         "uniqueId": "TWL00785"
     },
     {
@@ -1615,10 +1619,10 @@
         "y": 191100,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T02:58:00",
+        "statusChanged": "2024-09-08T01:34:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:54:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T02:58:00",
+        "mostRecentDischargeAlertStart": "2024-09-08T01:30:00",
+        "mostRecentDischargeAlertStop": "2024-09-08T01:34:00",
         "uniqueId": "TWL00787"
     },
     {
@@ -1641,10 +1645,10 @@
         "y": 191100,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-06T15:18:00",
+        "statusChanged": "2026-04-13T16:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-03T10:20:00",
-        "mostRecentDischargeAlertStop": "2026-07-03T10:26:00",
+        "mostRecentDischargeAlertStart": "2026-04-13T15:36:00",
+        "mostRecentDischargeAlertStop": "2026-04-13T16:00:00",
         "uniqueId": "TWL00789"
     },
     {
@@ -1669,10 +1673,10 @@
         "y": 203240,
         "receivingWaterCourse": "Henton Stream",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T17:18:00",
+        "statusChanged": "2026-04-28T09:54:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-13T12:08:00",
-        "mostRecentDischargeAlertStop": "2026-07-13T12:12:00",
+        "mostRecentDischargeAlertStart": "2026-04-28T09:40:00",
+        "mostRecentDischargeAlertStop": "2026-04-28T09:54:00",
         "uniqueId": "TWL00093"
     },
     {
@@ -1725,10 +1729,10 @@
         "y": 161020,
         "receivingWaterCourse": "River Bourne",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-03T03:00:00",
+        "statusChanged": "2026-02-20T06:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T17:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-03T03:00:00",
+        "mostRecentDischargeAlertStart": "2026-02-18T23:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-20T06:15:00",
         "uniqueId": "TWL00096"
     },
     {
@@ -1767,10 +1771,10 @@
         "y": 195230,
         "receivingWaterCourse": "Tributary of Pymmes Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:00:00",
+        "statusChanged": "2026-02-06T18:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:00:00",
+        "mostRecentDischargeAlertStart": "2026-02-06T17:15:00",
+        "mostRecentDischargeAlertStop": "2026-02-06T18:30:00",
         "uniqueId": "TWL00099"
     },
     {
@@ -1795,10 +1799,10 @@
         "y": 180454,
         "receivingWaterCourse": "River Brent",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-14T09:52:00",
+        "statusChanged": "2026-03-19T03:58:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-14T09:46:00",
-        "mostRecentDischargeAlertStop": "2026-07-14T09:52:00",
+        "mostRecentDischargeAlertStart": "2026-03-19T03:54:00",
+        "mostRecentDischargeAlertStop": "2026-03-19T03:58:00",
         "uniqueId": "TWL00521"
     },
     {
@@ -1809,10 +1813,10 @@
         "y": 177550,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:54:00",
+        "statusChanged": "2025-11-20T20:26:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:08:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:54:00",
+        "mostRecentDischargeAlertStart": "2025-11-20T20:22:00",
+        "mostRecentDischargeAlertStop": "2025-11-20T20:26:00",
         "uniqueId": "TWL00100"
     },
     {
@@ -1823,10 +1827,10 @@
         "y": 138080,
         "receivingWaterCourse": "Whitmoor Vale Stream",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T04:48:00",
+        "statusChanged": "2026-05-05T11:08:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T04:18:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T04:48:00",
+        "mostRecentDischargeAlertStart": "2026-01-27T07:02:00",
+        "mostRecentDischargeAlertStop": "2026-01-27T10:22:00",
         "uniqueId": "TWL00101"
     },
     {
@@ -1837,10 +1841,10 @@
         "y": 196790,
         "receivingWaterCourse": "Shorncote Ditch",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-22T19:30:00",
+        "statusChanged": "2026-05-02T18:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-22T19:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-22T19:30:00",
+        "mostRecentDischargeAlertStart": "2026-05-02T17:30:00",
+        "mostRecentDischargeAlertStop": "2026-05-02T18:30:00",
         "uniqueId": "TWL00102"
     },
     {
@@ -1851,7 +1855,7 @@
         "y": 201810,
         "receivingWaterCourse": "Marsh Lane West Ditch",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-30T09:30:00",
+        "statusChanged": "2026-03-02T22:45:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-03-02T17:30:00",
         "mostRecentDischargeAlertStop": "2026-03-02T22:45:00",
@@ -1865,7 +1869,7 @@
         "y": 231550,
         "receivingWaterCourse": "Clifton Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-28T14:15:00",
+        "statusChanged": "2026-02-19T05:00:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-02-18T23:00:00",
         "mostRecentDischargeAlertStop": "2026-02-19T05:00:00",
@@ -1879,10 +1883,10 @@
         "y": 160760,
         "receivingWaterCourse": "River Mole",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-21T07:30:00",
+        "statusChanged": "2026-03-11T21:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-21T06:45:00",
-        "mostRecentDischargeAlertStop": "2026-05-21T07:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-11T19:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-11T21:00:00",
         "uniqueId": "TWL00107"
     },
     {
@@ -1907,10 +1911,10 @@
         "y": 217940,
         "receivingWaterCourse": "Groundwater",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-08T09:28:00",
+        "statusChanged": "2026-05-02T17:56:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-08T09:04:00",
-        "mostRecentDischargeAlertStop": "2026-06-08T09:28:00",
+        "mostRecentDischargeAlertStart": "2026-05-02T17:52:00",
+        "mostRecentDischargeAlertStop": "2026-05-02T17:56:00",
         "uniqueId": "TWL00000"
     },
     {
@@ -1920,11 +1924,9 @@
         "x": 523160,
         "y": 133070,
         "receivingWaterCourse": "Ifield Brook",
-        "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-20T07:30:00",
+        "alertStatus": "Offline",
+        "statusChanged": "2024-02-05T09:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2023-12-28T18:45:00",
-        "mostRecentDischargeAlertStop": "2023-12-28T19:15:00",
         "uniqueId": "TWL00109"
     },
     {
@@ -1935,10 +1937,10 @@
         "y": 189010,
         "receivingWaterCourse": "Edgware Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T08:45:00",
+        "statusChanged": "2026-03-13T07:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T08:45:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:15:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T07:00:00",
         "uniqueId": "TWL00527"
     },
     {
@@ -1976,9 +1978,11 @@
         "x": 452600,
         "y": 179000,
         "receivingWaterCourse": "River Pang",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-14T09:00:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-04-13T22:15:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-04-13T19:30:00",
+        "mostRecentDischargeAlertStop": "2026-04-13T22:15:00",
         "uniqueId": "TWL00112"
     },
     {
@@ -2015,10 +2019,10 @@
         "y": 229680,
         "receivingWaterCourse": "Cottered Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T13:00:00",
+        "statusChanged": "2026-02-19T21:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T05:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T13:00:00",
+        "mostRecentDischargeAlertStart": "2026-02-18T22:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-19T21:45:00",
         "uniqueId": "TWL00115"
     },
     {
@@ -2029,10 +2033,10 @@
         "y": 139250,
         "receivingWaterCourse": "Cranleigh Waters",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-11T11:30:00",
+        "statusChanged": "2026-03-26T00:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-11T11:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-11T11:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-25T23:45:00",
+        "mostRecentDischargeAlertStop": "2026-03-26T00:45:00",
         "uniqueId": "TWL00117"
     },
     {
@@ -2043,7 +2047,7 @@
         "y": 140280,
         "receivingWaterCourse": "Tributary of River Mole",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-30T09:30:00",
+        "statusChanged": "2026-02-16T04:00:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-02-15T16:45:00",
         "mostRecentDischargeAlertStop": "2026-02-16T04:00:00",
@@ -2057,10 +2061,10 @@
         "y": 193860,
         "receivingWaterCourse": "Tributary of River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-22T19:30:00",
+        "statusChanged": "2026-04-15T18:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-22T18:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-22T19:30:00",
+        "mostRecentDischargeAlertStart": "2026-04-15T17:30:00",
+        "mostRecentDischargeAlertStop": "2026-04-15T18:00:00",
         "uniqueId": "TWL00119"
     },
     {
@@ -2071,10 +2075,10 @@
         "y": 185712,
         "receivingWaterCourse": "River Brent",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T06:52:00",
+        "statusChanged": "2026-03-13T04:40:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:26:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T06:52:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T01:58:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T04:40:00",
         "uniqueId": "TWL00533"
     },
     {
@@ -2085,10 +2089,10 @@
         "y": 165850,
         "receivingWaterCourse": "Kyd Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-28T20:15:00",
+        "statusChanged": "2026-03-23T09:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-10T17:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-10T18:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-10T12:45:00",
+        "mostRecentDischargeAlertStop": "2026-03-11T08:30:00",
         "uniqueId": "TWL00125"
     },
     {
@@ -2112,9 +2116,11 @@
         "x": 473760,
         "y": 154780,
         "receivingWaterCourse": "River Whitewater",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-24T07:00:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-03-12T21:44:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-03-12T20:22:00",
+        "mostRecentDischargeAlertStop": "2026-03-12T21:44:00",
         "uniqueId": "TWL00121"
     },
     {
@@ -2139,10 +2145,10 @@
         "y": 181170,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T13:30:00",
+        "statusChanged": "2026-03-13T16:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T13:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T13:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T11:15:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T16:00:00",
         "uniqueId": "TWL00123"
     },
     {
@@ -2195,10 +2201,10 @@
         "y": 215530,
         "receivingWaterCourse": "Groundwater",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T08:45:00",
+        "statusChanged": "2026-02-15T13:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T07:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T08:45:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T12:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T13:15:00",
         "uniqueId": "TWL00149"
     },
     {
@@ -2209,10 +2215,10 @@
         "y": 189220,
         "receivingWaterCourse": "Wealdstone Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:30:00",
+        "statusChanged": "2026-03-13T02:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T01:45:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:45:00",
         "uniqueId": "TWL00126"
     },
     {
@@ -2222,11 +2228,9 @@
         "x": 509038,
         "y": 221449,
         "receivingWaterCourse": "River Lee",
-        "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T14:52:00",
+        "alertStatus": "Offline",
+        "statusChanged": "2026-04-28T23:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-21T07:12:00",
-        "mostRecentDischargeAlertStop": "2026-05-21T07:26:00",
         "uniqueId": "TWL00544"
     },
     {
@@ -2276,9 +2280,11 @@
         "x": 530970,
         "y": 192230,
         "receivingWaterCourse": "Pymmes Brook",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-06-15T07:18:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-03-13T02:58:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-03-13T02:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:58:00",
         "uniqueId": "TWL00546"
     },
     {
@@ -2303,10 +2309,10 @@
         "y": 193150,
         "receivingWaterCourse": "Salmon Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T10:34:00",
+        "statusChanged": "2026-02-16T00:50:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T05:18:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T10:34:00",
+        "mostRecentDischargeAlertStart": "2026-02-16T00:36:00",
+        "mostRecentDischargeAlertStop": "2026-02-16T00:50:00",
         "uniqueId": "TWL00152"
     },
     {
@@ -2317,10 +2323,10 @@
         "y": 177000,
         "receivingWaterCourse": "River Ravensbourne / Deptford Creek",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:18:00",
+        "statusChanged": "2025-09-25T14:16:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:54:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:18:00",
+        "mostRecentDischargeAlertStart": "2025-01-06T06:24:00",
+        "mostRecentDischargeAlertStop": "2025-01-06T06:44:00",
         "uniqueId": "TWL00153"
     },
     {
@@ -2330,9 +2336,11 @@
         "x": 537420,
         "y": 178070,
         "receivingWaterCourse": "River Thames (via the Tideway tunnel)",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-29T07:58:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-06T12:46:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-01-07T03:02:00",
+        "mostRecentDischargeAlertStop": "2026-01-07T03:06:00",
         "uniqueId": "TWL00154"
     },
     {
@@ -2357,10 +2365,10 @@
         "y": 185100,
         "receivingWaterCourse": "Wembley Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-16T13:15:00",
+        "statusChanged": "2025-07-19T11:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-16T08:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-16T13:15:00",
+        "mostRecentDischargeAlertStart": "2025-07-19T10:30:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T11:00:00",
         "uniqueId": "TWL00156"
     },
     {
@@ -2399,10 +2407,10 @@
         "y": 154800,
         "receivingWaterCourse": "Buckland Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-04T21:00:00",
+        "statusChanged": "2025-12-18T21:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-03T08:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-04T21:00:00",
+        "mostRecentDischargeAlertStart": "2025-12-18T20:45:00",
+        "mostRecentDischargeAlertStop": "2025-12-18T21:15:00",
         "uniqueId": "TWL00158"
     },
     {
@@ -2497,10 +2505,10 @@
         "y": 173070,
         "receivingWaterCourse": "River Wandle",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:30:00",
+        "statusChanged": "2025-09-05T18:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:30:00",
+        "mostRecentDischargeAlertStart": "2025-09-05T17:45:00",
+        "mostRecentDischargeAlertStop": "2025-09-05T18:15:00",
         "uniqueId": "TWL00127"
     },
     {
@@ -2511,10 +2519,10 @@
         "y": 178970,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:36:00",
+        "statusChanged": "2026-04-28T15:54:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:40:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:36:00",
+        "mostRecentDischargeAlertStart": "2025-07-19T11:28:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T12:56:00",
         "uniqueId": "TWL00163"
     },
     {
@@ -2525,10 +2533,10 @@
         "y": 148010,
         "receivingWaterCourse": "Earlswood Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T15:45:00",
+        "statusChanged": "2026-03-13T23:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T06:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T15:45:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T04:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T23:45:00",
         "uniqueId": "TWL00347"
     },
     {
@@ -2595,10 +2603,10 @@
         "y": 186834,
         "receivingWaterCourse": "Wealdstone Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:10:00",
+        "statusChanged": "2026-03-13T02:08:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:14:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:10:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:02:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:08:00",
         "uniqueId": "TWL00557"
     },
     {
@@ -2637,10 +2645,10 @@
         "y": 166410,
         "receivingWaterCourse": "Emm Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T21:00:00",
+        "statusChanged": "2026-03-08T20:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T19:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T21:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-08T19:30:00",
+        "mostRecentDischargeAlertStop": "2026-03-08T20:30:00",
         "uniqueId": "TWL00169"
     },
     {
@@ -2651,10 +2659,10 @@
         "y": 189300,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-18T12:54:00",
+        "statusChanged": "2026-04-13T16:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-18T12:50:00",
-        "mostRecentDischargeAlertStop": "2026-07-18T12:54:00",
+        "mostRecentDischargeAlertStart": "2026-04-13T15:45:00",
+        "mostRecentDischargeAlertStop": "2026-04-13T16:15:00",
         "uniqueId": "TWL00791"
     },
     {
@@ -2665,10 +2673,10 @@
         "y": 189300,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:20:00",
+        "statusChanged": "2026-05-03T22:40:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:08:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:20:00",
+        "mostRecentDischargeAlertStart": "2026-05-03T22:36:00",
+        "mostRecentDischargeAlertStop": "2026-05-03T22:40:00",
         "uniqueId": "TWL00793"
     },
     {
@@ -2679,10 +2687,10 @@
         "y": 189300,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:28:00",
+        "statusChanged": "2026-05-03T22:44:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:48:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:28:00",
+        "mostRecentDischargeAlertStart": "2026-05-03T22:16:00",
+        "mostRecentDischargeAlertStop": "2026-05-03T22:44:00",
         "uniqueId": "TWL00795"
     },
     {
@@ -2693,10 +2701,10 @@
         "y": 189300,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:32:00",
+        "statusChanged": "2026-05-03T22:52:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:26:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:32:00",
+        "mostRecentDischargeAlertStart": "2026-05-03T22:16:00",
+        "mostRecentDischargeAlertStop": "2026-05-03T22:52:00",
         "uniqueId": "TWL00794"
     },
     {
@@ -2707,10 +2715,10 @@
         "y": 189300,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:24:00",
+        "statusChanged": "2026-05-03T22:48:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:38:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:24:00",
+        "mostRecentDischargeAlertStart": "2026-05-03T22:10:00",
+        "mostRecentDischargeAlertStop": "2026-05-03T22:48:00",
         "uniqueId": "TWL00797"
     },
     {
@@ -2721,10 +2729,10 @@
         "y": 189300,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:00:00",
+        "statusChanged": "2026-02-15T13:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T04:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:00:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T12:30:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T13:45:00",
         "uniqueId": "TWL00792"
     },
     {
@@ -2735,10 +2743,10 @@
         "y": 189300,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-29T13:08:00",
+        "statusChanged": "2026-05-03T22:42:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-27T10:58:00",
-        "mostRecentDischargeAlertStop": "2026-05-27T11:04:00",
+        "mostRecentDischargeAlertStart": "2026-05-03T22:22:00",
+        "mostRecentDischargeAlertStop": "2026-05-03T22:42:00",
         "uniqueId": "TWL00796"
     },
     {
@@ -2763,10 +2771,10 @@
         "y": 155100,
         "receivingWaterCourse": "Basingstoke Canal",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-03T09:00:00",
+        "statusChanged": "2026-04-13T07:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-24T19:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-24T20:00:00",
+        "mostRecentDischargeAlertStart": "2025-12-14T08:45:00",
+        "mostRecentDischargeAlertStop": "2025-12-14T09:30:00",
         "uniqueId": "TWL00171"
     },
     {
@@ -2777,10 +2785,10 @@
         "y": 186996,
         "receivingWaterCourse": "Lower Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-23T07:18:00",
+        "statusChanged": "2025-10-31T21:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:38:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:50:00",
+        "mostRecentDischargeAlertStart": "2025-10-31T21:12:00",
+        "mostRecentDischargeAlertStop": "2025-10-31T21:30:00",
         "uniqueId": "TWL00798"
     },
     {
@@ -2859,10 +2867,10 @@
         "y": 187696,
         "receivingWaterCourse": "Dollis Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:22:00",
+        "statusChanged": "2026-03-13T02:14:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:12:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:22:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T01:42:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:14:00",
         "uniqueId": "TWL00571"
     },
     {
@@ -2887,10 +2895,10 @@
         "y": 176020,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-10T08:40:00",
+        "statusChanged": "2026-04-28T15:54:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-10T08:08:00",
-        "mostRecentDischargeAlertStop": "2026-07-10T08:40:00",
+        "mostRecentDischargeAlertStart": "2025-10-29T10:56:00",
+        "mostRecentDischargeAlertStop": "2025-10-29T11:00:00",
         "uniqueId": "TWL00179"
     },
     {
@@ -2901,10 +2909,10 @@
         "y": 189154,
         "receivingWaterCourse": "Dollis Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:08:00",
+        "statusChanged": "2026-03-18T10:58:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:34:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:08:00",
+        "mostRecentDischargeAlertStart": "2025-07-19T11:20:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T12:06:00",
         "uniqueId": "TWL00574"
     },
     {
@@ -2914,9 +2922,11 @@
         "x": 427940,
         "y": 196510,
         "receivingWaterCourse": "Faringdon Stream",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-13T16:00:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-03T20:15:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-05-03T19:30:00",
+        "mostRecentDischargeAlertStop": "2026-05-03T20:15:00",
         "uniqueId": "TWL00180"
     },
     {
@@ -2926,9 +2936,11 @@
         "x": 428005,
         "y": 196180,
         "receivingWaterCourse": "River Thames",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-15T19:00:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-03T22:02:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-05-03T21:52:00",
+        "mostRecentDischargeAlertStop": "2026-05-03T22:02:00",
         "uniqueId": "TWL00575"
     },
     {
@@ -2953,10 +2965,10 @@
         "y": 148010,
         "receivingWaterCourse": "Tributary of Farnham Park",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T09:15:00",
+        "statusChanged": "2026-02-16T13:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T06:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T09:15:00",
+        "mostRecentDischargeAlertStart": "2026-02-16T12:30:00",
+        "mostRecentDischargeAlertStop": "2026-02-16T13:00:00",
         "uniqueId": "TWL00182"
     },
     {
@@ -2981,10 +2993,10 @@
         "y": 200380,
         "receivingWaterCourse": "Brookhouse Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-02T16:15:00",
+        "statusChanged": "2026-03-14T05:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T05:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T20:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T04:30:00",
+        "mostRecentDischargeAlertStop": "2026-03-14T05:15:00",
         "uniqueId": "TWL00172"
     },
     {
@@ -3009,7 +3021,7 @@
         "y": 186922,
         "receivingWaterCourse": "Yeading Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T17:18:00",
+        "statusChanged": "2023-11-10T10:58:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00579"
     },
@@ -3048,9 +3060,11 @@
         "x": 531650,
         "y": 180800,
         "receivingWaterCourse": "River Thames (via the Tideway tunnel)",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-29T07:56:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-05T14:36:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-08-31T09:10:00",
+        "mostRecentDischargeAlertStop": "2025-08-31T12:28:00",
         "uniqueId": "TWL00185"
     },
     {
@@ -3061,10 +3075,10 @@
         "y": 183190,
         "receivingWaterCourse": "River Roding (Barking Creek)",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T07:00:00",
+        "statusChanged": "2026-02-15T20:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T04:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T07:00:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T20:15:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T20:45:00",
         "uniqueId": "TWL00187"
     },
     {
@@ -3075,10 +3089,10 @@
         "y": 208110,
         "receivingWaterCourse": "Polecat End Ditch",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-28T07:15:00",
-        "alertPast48Hours": true,
-        "mostRecentDischargeAlertStart": "2026-07-28T06:45:00",
-        "mostRecentDischargeAlertStop": "2026-07-28T07:15:00",
+        "statusChanged": "2025-11-14T16:15:00",
+        "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-11-14T14:00:00",
+        "mostRecentDischargeAlertStop": "2025-11-14T16:15:00",
         "uniqueId": "TWL00188"
     },
     {
@@ -3089,10 +3103,10 @@
         "y": 188775,
         "receivingWaterCourse": "Wealdstone Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:00:00",
+        "statusChanged": "2026-03-13T02:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:06:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T01:36:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:30:00",
         "uniqueId": "TWL00583"
     },
     {
@@ -3103,10 +3117,10 @@
         "y": 182700,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T07:14:00",
+        "statusChanged": "2026-03-13T01:24:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T06:34:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T07:14:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T00:52:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T01:24:00",
         "uniqueId": "TWL00191"
     },
     {
@@ -3116,9 +3130,11 @@
         "x": 525490,
         "y": 174980,
         "receivingWaterCourse": "Bell Lane Creek (via the Tideway tunnel)",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-29T07:58:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-05T14:36:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-07-19T12:38:00",
+        "mostRecentDischargeAlertStop": "2025-07-20T00:36:00",
         "uniqueId": "TWL00032"
     },
     {
@@ -3128,9 +3144,11 @@
         "x": 525590,
         "y": 174550,
         "receivingWaterCourse": "River Wandle (via the Tideway tunnel)",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-29T08:02:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-05T14:36:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-07-19T12:06:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T12:38:00",
         "uniqueId": "TWL00192"
     },
     {
@@ -3141,10 +3159,10 @@
         "y": 186600,
         "receivingWaterCourse": "River Colne",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-27T13:32:00",
-        "alertPast48Hours": true,
-        "mostRecentDischargeAlertStart": "2026-07-27T13:28:00",
-        "mostRecentDischargeAlertStop": "2026-07-27T13:32:00",
+        "statusChanged": "2026-02-15T11:20:00",
+        "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-02-15T11:12:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T11:20:00",
         "uniqueId": "TWL00799"
     },
     {
@@ -3183,7 +3201,7 @@
         "y": 184500,
         "receivingWaterCourse": "River Brent",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-16T08:15:00",
+        "statusChanged": "2022-04-01T00:00:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00194"
     },
@@ -3195,10 +3213,10 @@
         "y": 182890,
         "receivingWaterCourse": "River Roding (Barking Creek)",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T09:00:00",
+        "statusChanged": "2026-01-08T21:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T04:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T09:00:00",
+        "mostRecentDischargeAlertStart": "2026-01-08T20:45:00",
+        "mostRecentDischargeAlertStop": "2026-01-08T21:45:00",
         "uniqueId": "TWL00195"
     },
     {
@@ -3237,10 +3255,10 @@
         "y": 187610,
         "receivingWaterCourse": "River Misbourne",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-24T03:45:00",
+        "statusChanged": "2026-04-08T21:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-24T02:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-24T03:45:00",
+        "mostRecentDischargeAlertStart": "2026-04-08T20:15:00",
+        "mostRecentDischargeAlertStop": "2026-04-08T21:00:00",
         "uniqueId": "TWL00196"
     },
     {
@@ -3251,10 +3269,10 @@
         "y": 145720,
         "receivingWaterCourse": "River Wey",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T09:15:00",
+        "statusChanged": "2026-02-15T21:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T06:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T09:15:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T19:45:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T21:30:00",
         "uniqueId": "TWL00197"
     },
     {
@@ -3279,10 +3297,10 @@
         "y": 191223,
         "receivingWaterCourse": "Dollis Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:02:00",
+        "statusChanged": "2026-02-25T00:20:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:02:00",
+        "mostRecentDischargeAlertStart": "2026-02-25T00:14:00",
+        "mostRecentDischargeAlertStop": "2026-02-25T00:20:00",
         "uniqueId": "TWL00588"
     },
     {
@@ -3305,10 +3323,10 @@
         "y": 180680,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:22:00",
+        "statusChanged": "2025-11-05T20:18:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:04:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:22:00",
+        "mostRecentDischargeAlertStart": "2025-11-05T20:14:00",
+        "mostRecentDischargeAlertStop": "2025-11-05T20:18:00",
         "uniqueId": "TWL00200"
     },
     {
@@ -3319,10 +3337,10 @@
         "y": 187240,
         "receivingWaterCourse": "Dollis Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-25T09:22:00",
+        "statusChanged": "2026-03-13T03:16:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-25T09:16:00",
-        "mostRecentDischargeAlertStop": "2026-06-25T09:22:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T03:12:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T03:16:00",
         "uniqueId": "TWL00590"
     },
     {
@@ -3333,10 +3351,10 @@
         "y": 186943,
         "receivingWaterCourse": "Dollis Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-02T16:15:00",
+        "statusChanged": "2026-03-13T02:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:30:00",
         "uniqueId": "TWL00591"
     },
     {
@@ -3375,7 +3393,7 @@
         "y": 177940,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T17:18:00",
+        "statusChanged": "2026-05-01T08:16:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-04-20T10:10:00",
         "mostRecentDischargeAlertStop": "2026-04-20T15:00:00",
@@ -3389,10 +3407,10 @@
         "y": 221150,
         "receivingWaterCourse": "River Ray",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T17:30:00",
+        "statusChanged": "2026-03-13T09:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T14:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T17:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T09:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T09:30:00",
         "uniqueId": "TWL00204"
     },
     {
@@ -3403,10 +3421,10 @@
         "y": 178790,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T06:24:00",
+        "statusChanged": "2026-02-15T13:54:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:52:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T06:24:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T11:06:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T13:54:00",
         "uniqueId": "TWL00596"
     },
     {
@@ -3487,10 +3505,10 @@
         "y": 177990,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-25T09:24:00",
+        "statusChanged": "2026-04-28T15:54:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-25T09:18:00",
-        "mostRecentDischargeAlertStop": "2026-06-25T09:24:00",
+        "mostRecentDischargeAlertStart": "2026-04-21T09:38:00",
+        "mostRecentDischargeAlertStop": "2026-04-21T09:58:00",
         "uniqueId": "TWL00210"
     },
     {
@@ -3501,10 +3519,10 @@
         "y": 177990,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:15:00",
+        "statusChanged": "2025-04-10T10:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:15:00",
+        "mostRecentDischargeAlertStart": "2025-04-10T10:00:00",
+        "mostRecentDischargeAlertStop": "2025-04-10T10:30:00",
         "uniqueId": "TWL00808"
     },
     {
@@ -3515,10 +3533,10 @@
         "y": 175730,
         "receivingWaterCourse": "River Pang",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-19T08:30:00",
+        "statusChanged": "2026-03-24T21:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-04-07T06:15:00",
-        "mostRecentDischargeAlertStop": "2026-04-07T10:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-24T20:30:00",
+        "mostRecentDischargeAlertStop": "2026-03-24T21:00:00",
         "uniqueId": "TWL00211"
     },
     {
@@ -3556,9 +3574,11 @@
         "x": 417720,
         "y": 193470,
         "receivingWaterCourse": "Bydemill Ditch",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-26T03:00:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-03-12T23:45:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-03-12T23:15:00",
+        "mostRecentDischargeAlertStop": "2026-03-12T23:45:00",
         "uniqueId": "TWL00130"
     },
     {
@@ -3611,10 +3631,10 @@
         "y": 132530,
         "receivingWaterCourse": "River Wey",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T15:15:00",
+        "statusChanged": "2026-02-19T02:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T12:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T15:15:00",
+        "mostRecentDischargeAlertStart": "2026-02-18T20:30:00",
+        "mostRecentDischargeAlertStop": "2026-02-19T02:30:00",
         "uniqueId": "TWL00217"
     },
     {
@@ -3625,10 +3645,10 @@
         "y": 132526,
         "receivingWaterCourse": "River Wey",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T13:32:00",
+        "statusChanged": "2026-03-06T13:44:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T13:04:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T13:32:00",
+        "mostRecentDischargeAlertStart": "2026-03-06T13:34:00",
+        "mostRecentDischargeAlertStop": "2026-03-06T13:44:00",
         "uniqueId": "TWL00599"
     },
     {
@@ -3653,10 +3673,10 @@
         "y": 193870,
         "receivingWaterCourse": "Tributary of River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-09T14:42:00",
+        "statusChanged": "2026-03-23T15:56:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-09T14:08:00",
-        "mostRecentDischargeAlertStop": "2026-07-09T14:42:00",
+        "mostRecentDischargeAlertStart": "2025-12-10T07:22:00",
+        "mostRecentDischargeAlertStop": "2025-12-10T15:46:00",
         "uniqueId": "TWL00600"
     },
     {
@@ -3667,7 +3687,7 @@
         "y": 177720,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-24T11:04:00",
+        "statusChanged": "2026-04-28T15:54:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2025-07-19T12:12:00",
         "mostRecentDischargeAlertStop": "2025-07-20T03:42:00",
@@ -3723,10 +3743,10 @@
         "y": 189290,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:30:00",
+        "statusChanged": "2026-02-15T13:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:30:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T13:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T13:30:00",
         "uniqueId": "TWL00131"
     },
     {
@@ -3751,10 +3771,10 @@
         "y": 188350,
         "receivingWaterCourse": "Decoy Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:30:00",
+        "statusChanged": "2026-02-04T12:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:30:00",
+        "mostRecentDischargeAlertStart": "2025-11-14T13:15:00",
+        "mostRecentDischargeAlertStop": "2025-11-14T16:00:00",
         "uniqueId": "TWL00225"
     },
     {
@@ -3765,10 +3785,10 @@
         "y": 193770,
         "receivingWaterCourse": "Westrop Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-22T23:15:00",
+        "statusChanged": "2026-05-04T01:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-22T18:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-22T23:15:00",
+        "mostRecentDischargeAlertStart": "2026-05-03T21:15:00",
+        "mostRecentDischargeAlertStop": "2026-05-04T01:30:00",
         "uniqueId": "TWL00227"
     },
     {
@@ -3779,10 +3799,10 @@
         "y": 192800,
         "receivingWaterCourse": "Groundwater",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-20T11:15:00",
+        "statusChanged": "2026-05-03T21:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-22T18:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-22T18:45:00",
+        "mostRecentDischargeAlertStart": "2026-05-03T20:45:00",
+        "mostRecentDischargeAlertStop": "2026-05-03T21:30:00",
         "uniqueId": "TWL00226"
     },
     {
@@ -3793,10 +3813,10 @@
         "y": 192190,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-30T11:15:00",
+        "statusChanged": "2026-04-08T09:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:00:00",
+        "mostRecentDischargeAlertStart": "2025-11-10T13:15:00",
+        "mostRecentDischargeAlertStop": "2025-11-10T13:45:00",
         "uniqueId": "TWL00228"
     },
     {
@@ -3807,10 +3827,10 @@
         "y": 154170,
         "receivingWaterCourse": "Stanford Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-11T21:45:00",
+        "statusChanged": "2026-02-16T10:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-11T21:15:00",
-        "mostRecentDischargeAlertStop": "2026-07-11T21:45:00",
+        "mostRecentDischargeAlertStart": "2026-02-16T09:15:00",
+        "mostRecentDischargeAlertStop": "2026-02-16T10:00:00",
         "uniqueId": "TWL00331"
     },
     {
@@ -3821,10 +3841,10 @@
         "y": 168560,
         "receivingWaterCourse": "River Hogsmill",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T20:30:00",
+        "statusChanged": "2026-02-16T00:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T17:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T20:30:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T13:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-16T00:00:00",
         "uniqueId": "TWL00229"
     },
     {
@@ -3834,11 +3854,9 @@
         "x": 536070,
         "y": 180810,
         "receivingWaterCourse": "River Thames",
-        "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-07T07:42:00",
+        "alertStatus": "Offline",
+        "statusChanged": "2026-05-02T17:26:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:40:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:48:00",
         "uniqueId": "TWL00230"
     },
     {
@@ -3848,9 +3866,11 @@
         "x": 518920,
         "y": 144920,
         "receivingWaterCourse": "Holmwood Stream",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-23T10:00:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-03-14T12:45:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-03-14T11:30:00",
+        "mostRecentDischargeAlertStop": "2026-03-14T12:45:00",
         "uniqueId": "TWL00231"
     },
     {
@@ -3861,7 +3881,7 @@
         "y": 140590,
         "receivingWaterCourse": "River Wey",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-21T07:30:00",
+        "statusChanged": "2026-02-09T13:00:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-02-09T08:15:00",
         "mostRecentDischargeAlertStop": "2026-02-09T13:00:00",
@@ -3875,10 +3895,10 @@
         "y": 172339,
         "receivingWaterCourse": "River Wandle",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:30:00",
+        "statusChanged": "2025-10-31T21:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:30:00",
+        "mostRecentDischargeAlertStart": "2025-10-31T20:30:00",
+        "mostRecentDischargeAlertStop": "2025-10-31T21:15:00",
         "uniqueId": "TWL00608"
     },
     {
@@ -3889,10 +3909,10 @@
         "y": 189840,
         "receivingWaterCourse": "Kenton Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-25T13:15:00",
+        "statusChanged": "2026-03-13T03:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-25T12:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-25T13:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T01:45:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T03:45:00",
         "uniqueId": "TWL00233"
     },
     {
@@ -3917,10 +3937,10 @@
         "y": 243380,
         "receivingWaterCourse": "Sor Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T17:45:00",
+        "statusChanged": "2026-05-02T21:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T17:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T17:45:00",
+        "mostRecentDischargeAlertStart": "2026-05-02T21:15:00",
+        "mostRecentDischargeAlertStop": "2026-05-02T21:45:00",
         "uniqueId": "TWL00235"
     },
     {
@@ -3931,10 +3951,10 @@
         "y": 143590,
         "receivingWaterCourse": "River Mole",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-03T07:15:00",
+        "statusChanged": "2026-03-15T08:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T18:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-03T07:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T09:30:00",
+        "mostRecentDischargeAlertStop": "2026-03-15T08:00:00",
         "uniqueId": "TWL00264"
     },
     {
@@ -3958,9 +3978,11 @@
         "x": 530270,
         "y": 179010,
         "receivingWaterCourse": "River Thames",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-06T13:38:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2025-10-31T21:26:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-10-31T20:28:00",
+        "mostRecentDischargeAlertStop": "2025-10-31T21:26:00",
         "uniqueId": "TWL00237"
     },
     {
@@ -3971,10 +3993,10 @@
         "y": 211990,
         "receivingWaterCourse": "Danes Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-22T21:15:00",
+        "statusChanged": "2026-03-14T01:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-22T19:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-22T21:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T00:30:00",
+        "mostRecentDischargeAlertStop": "2026-03-14T01:30:00",
         "uniqueId": "TWL00238"
     },
     {
@@ -4027,10 +4049,10 @@
         "y": 189237,
         "receivingWaterCourse": "Dollis Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:00:00",
+        "statusChanged": "2025-05-12T17:18:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:56:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:00:00",
+        "mostRecentDischargeAlertStart": "2025-05-12T17:10:00",
+        "mostRecentDischargeAlertStop": "2025-05-12T17:18:00",
         "uniqueId": "TWL00613"
     },
     {
@@ -4041,10 +4063,10 @@
         "y": 180370,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T20:58:00",
+        "statusChanged": "2026-03-13T02:42:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-13T20:54:00",
-        "mostRecentDischargeAlertStop": "2026-07-13T20:58:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:20:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:42:00",
         "uniqueId": "TWL00241"
     },
     {
@@ -4069,10 +4091,10 @@
         "y": 179700,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:18:00",
+        "statusChanged": "2025-10-31T21:28:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:58:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:18:00",
+        "mostRecentDischargeAlertStart": "2025-10-31T21:08:00",
+        "mostRecentDischargeAlertStop": "2025-10-31T21:28:00",
         "uniqueId": "TWL00243"
     },
     {
@@ -4111,10 +4133,10 @@
         "y": 175420,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T11:40:00",
+        "statusChanged": "2025-11-02T13:50:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T07:06:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T11:40:00",
+        "mostRecentDischargeAlertStart": "2025-11-02T09:10:00",
+        "mostRecentDischargeAlertStop": "2025-11-02T13:50:00",
         "uniqueId": "TWL00424"
     },
     {
@@ -4125,10 +4147,10 @@
         "y": 175450,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:40:00",
+        "statusChanged": "2025-09-12T07:20:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:42:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:40:00",
+        "mostRecentDischargeAlertStart": "2024-09-23T00:56:00",
+        "mostRecentDischargeAlertStop": "2024-09-23T04:44:00",
         "uniqueId": "TWL00423"
     },
     {
@@ -4139,7 +4161,7 @@
         "y": 222349,
         "receivingWaterCourse": "River Lee",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-30T09:42:00",
+        "statusChanged": "2026-01-19T09:00:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00619"
     },
@@ -4163,10 +4185,10 @@
         "y": 221449,
         "receivingWaterCourse": "River Lee",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T07:30:00",
+        "statusChanged": "2025-07-06T11:04:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T07:22:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T07:30:00",
+        "mostRecentDischargeAlertStart": "2025-07-06T10:58:00",
+        "mostRecentDischargeAlertStop": "2025-07-06T11:04:00",
         "uniqueId": "TWL00621"
     },
     {
@@ -4177,10 +4199,10 @@
         "y": 175467,
         "receivingWaterCourse": "River Darent",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-15T12:26:00",
+        "statusChanged": "2025-04-01T00:26:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-15T12:18:00",
-        "mostRecentDischargeAlertStop": "2026-05-15T12:26:00",
+        "mostRecentDischargeAlertStart": "2024-11-27T08:20:00",
+        "mostRecentDischargeAlertStop": "2024-11-27T11:38:00",
         "uniqueId": "TWL00800"
     },
     {
@@ -4191,10 +4213,10 @@
         "y": 197540,
         "receivingWaterCourse": "Dudgrove Stream",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-21T21:30:00",
+        "statusChanged": "2025-11-21T08:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-21T20:30:00",
-        "mostRecentDischargeAlertStop": "2026-05-21T21:30:00",
+        "mostRecentDischargeAlertStart": "2025-11-21T06:45:00",
+        "mostRecentDischargeAlertStop": "2025-11-21T08:45:00",
         "uniqueId": "TWL00246"
     },
     {
@@ -4285,10 +4307,10 @@
         "y": 178060,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:40:00",
+        "statusChanged": "2025-10-31T21:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:22:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:40:00",
+        "mostRecentDischargeAlertStart": "2025-10-31T20:20:00",
+        "mostRecentDischargeAlertStop": "2025-10-31T21:30:00",
         "uniqueId": "TWL00254"
     },
     {
@@ -4327,10 +4349,10 @@
         "y": 197530,
         "receivingWaterCourse": "Bagpuize Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T08:45:00",
+        "statusChanged": "2026-03-15T23:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T06:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T08:45:00",
+        "mostRecentDischargeAlertStart": "2026-03-15T19:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-15T23:15:00",
         "uniqueId": "TWL00257"
     },
     {
@@ -4369,10 +4391,10 @@
         "y": 184898,
         "receivingWaterCourse": "River Brent",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:50:00",
+        "statusChanged": "2026-03-13T03:16:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:28:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:50:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T03:16:00",
         "uniqueId": "TWL00625"
     },
     {
@@ -4383,10 +4405,10 @@
         "y": 167100,
         "receivingWaterCourse": "Kennet & Avon Canal",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-16T10:58:00",
+        "statusChanged": "2026-02-20T00:08:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-16T10:54:00",
-        "mostRecentDischargeAlertStop": "2026-06-16T10:58:00",
+        "mostRecentDischargeAlertStart": "2026-02-19T11:22:00",
+        "mostRecentDischargeAlertStop": "2026-02-20T00:08:00",
         "uniqueId": "TWL00259"
     },
     {
@@ -4425,10 +4447,10 @@
         "y": 138800,
         "receivingWaterCourse": "Cranleigh Waters/Littlemead Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T17:45:00",
+        "statusChanged": "2026-02-15T17:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T17:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T17:45:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T17:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T17:45:00",
         "uniqueId": "TWL00132"
     },
     {
@@ -4453,10 +4475,10 @@
         "y": 158030,
         "receivingWaterCourse": "River Mole",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-03T01:00:00",
+        "statusChanged": "2026-03-08T03:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T04:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-03T01:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-06T21:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-08T03:00:00",
         "uniqueId": "TWL00262"
     },
     {
@@ -4467,10 +4489,10 @@
         "y": 199330,
         "receivingWaterCourse": "River Leach",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-14T18:30:00",
+        "statusChanged": "2026-03-02T22:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-14T16:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-14T18:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-02T22:15:00",
+        "mostRecentDischargeAlertStop": "2026-03-02T22:45:00",
         "uniqueId": "TWL00263"
     },
     {
@@ -4481,10 +4503,10 @@
         "y": 184870,
         "receivingWaterCourse": "Mitchell Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:00:00",
+        "statusChanged": "2026-03-13T03:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T03:15:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T03:45:00",
         "uniqueId": "TWL00265"
     },
     {
@@ -4508,8 +4530,8 @@
         "x": 535244,
         "y": 195289,
         "receivingWaterCourse": "Salmon Brook",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-06-18T17:00:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2024-05-04T01:56:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00636"
     },
@@ -4521,10 +4543,10 @@
         "y": 188350,
         "receivingWaterCourse": "Wealdstone Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:15:00",
+        "statusChanged": "2026-03-13T03:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T04:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T01:45:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T03:15:00",
         "uniqueId": "TWL00267"
     },
     {
@@ -4591,7 +4613,7 @@
         "y": 138990,
         "receivingWaterCourse": "Tributary of Cranleigh Waters",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-26T13:30:00",
+        "statusChanged": "2026-01-27T10:15:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-01-27T06:45:00",
         "mostRecentDischargeAlertStop": "2026-01-27T10:15:00",
@@ -4604,9 +4626,11 @@
         "x": 452500,
         "y": 202900,
         "receivingWaterCourse": "River Thames",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-23T18:00:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-04-13T10:20:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-04-13T10:16:00",
+        "mostRecentDischargeAlertStop": "2026-04-13T10:20:00",
         "uniqueId": "TWL00273"
     },
     {
@@ -4617,10 +4641,10 @@
         "y": 180600,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:06:00",
+        "statusChanged": "2025-10-31T21:26:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:10:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:06:00",
+        "mostRecentDischargeAlertStart": "2025-10-31T20:30:00",
+        "mostRecentDischargeAlertStop": "2025-10-31T21:26:00",
         "uniqueId": "TWL00274"
     },
     {
@@ -4659,10 +4683,10 @@
         "y": 176920,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T11:42:00",
+        "statusChanged": "2026-02-15T22:50:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T08:40:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T11:42:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T22:42:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T22:50:00",
         "uniqueId": "TWL00277"
     },
     {
@@ -4673,10 +4697,10 @@
         "y": 185800,
         "receivingWaterCourse": "Mayes Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T06:15:00",
+        "statusChanged": "2026-02-15T14:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T06:15:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T12:30:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T14:00:00",
         "uniqueId": "TWL00278"
     },
     {
@@ -4687,7 +4711,7 @@
         "y": 185800,
         "receivingWaterCourse": "Mayes Brook",
         "alertStatus": "Offline",
-        "statusChanged": "2026-07-27T07:00:00",
+        "statusChanged": "2026-04-17T06:00:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00638"
     },
@@ -4699,10 +4723,10 @@
         "y": 170890,
         "receivingWaterCourse": "River Graveney",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:15:00",
+        "statusChanged": "2026-03-22T10:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-22T09:45:00",
+        "mostRecentDischargeAlertStop": "2026-03-22T10:15:00",
         "uniqueId": "TWL00133"
     },
     {
@@ -4713,7 +4737,7 @@
         "y": 184870,
         "receivingWaterCourse": "Mitchell Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-30T11:15:00",
+        "statusChanged": "2026-03-26T07:45:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00279"
     },
@@ -4724,9 +4748,11 @@
         "x": 526590,
         "y": 177100,
         "receivingWaterCourse": "River Thames (via the Tideway tunnel)",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-29T07:58:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-05T14:36:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-05-14T12:14:00",
+        "mostRecentDischargeAlertStop": "2025-05-14T13:52:00",
         "uniqueId": "TWL00116"
     },
     {
@@ -4737,10 +4763,10 @@
         "y": 188060,
         "receivingWaterCourse": "Dagenham Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T07:52:00",
+        "statusChanged": "2026-02-16T00:14:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T07:48:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T07:52:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T13:20:00",
+        "mostRecentDischargeAlertStop": "2026-02-16T00:14:00",
         "uniqueId": "TWL00421"
     },
     {
@@ -4765,10 +4791,10 @@
         "y": 218630,
         "receivingWaterCourse": "Ludgershall Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T08:30:00",
+        "statusChanged": "2026-03-13T21:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T08:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T08:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T19:30:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T21:45:00",
         "uniqueId": "TWL00283"
     },
     {
@@ -4793,10 +4819,10 @@
         "y": 196400,
         "receivingWaterCourse": "Pymmes Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-28T07:45:00",
+        "statusChanged": "2026-03-13T03:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-20T23:45:00",
-        "mostRecentDischargeAlertStop": "2026-07-21T00:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:15:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T03:45:00",
         "uniqueId": "TWL00286"
     },
     {
@@ -4821,10 +4847,10 @@
         "y": 172268,
         "receivingWaterCourse": "Wyncham Stream (needs reviewing)",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:24:00",
+        "statusChanged": "2026-03-13T02:58:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:32:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:24:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:50:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:58:00",
         "uniqueId": "TWL00644"
     },
     {
@@ -4835,10 +4861,10 @@
         "y": 163580,
         "receivingWaterCourse": "River Hogsmill",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T06:30:00",
+        "statusChanged": "2026-02-15T13:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T05:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T06:30:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T12:15:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T13:30:00",
         "uniqueId": "TWL00288"
     },
     {
@@ -4863,10 +4889,10 @@
         "y": 192370,
         "receivingWaterCourse": "River Colne",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-03T01:45:00",
+        "statusChanged": "2026-03-16T02:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T17:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-03T01:45:00",
+        "mostRecentDischargeAlertStart": "2026-03-15T20:15:00",
+        "mostRecentDischargeAlertStop": "2026-03-16T02:45:00",
         "uniqueId": "TWL00290"
     },
     {
@@ -4877,10 +4903,10 @@
         "y": 174320,
         "receivingWaterCourse": "River Wandle",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:30:00",
+        "statusChanged": "2025-07-19T11:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:30:00",
+        "mostRecentDischargeAlertStart": "2025-07-19T11:00:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T11:30:00",
         "uniqueId": "TWL00134"
     },
     {
@@ -4960,9 +4986,11 @@
         "x": 453642,
         "y": 241714,
         "receivingWaterCourse": "Tributary of Farthinghoe Stream",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-06-28T14:00:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-04-27T19:28:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-04-27T19:00:00",
+        "mostRecentDischargeAlertStop": "2026-04-27T19:28:00",
         "uniqueId": "TWL00803"
     },
     {
@@ -4973,10 +5001,10 @@
         "y": 215200,
         "receivingWaterCourse": "River Thame",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T08:30:00",
+        "statusChanged": "2026-02-15T19:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T07:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T08:30:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T16:45:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T19:15:00",
         "uniqueId": "TWL00296"
     },
     {
@@ -4987,10 +5015,10 @@
         "y": 195237,
         "receivingWaterCourse": "Dollis Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:44:00",
+        "statusChanged": "2026-03-13T04:22:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T04:28:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:44:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T01:32:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T04:22:00",
         "uniqueId": "TWL00648"
     },
     {
@@ -5041,10 +5069,10 @@
         "y": 241140,
         "receivingWaterCourse": "Washle Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-05T06:30:00",
+        "statusChanged": "2026-02-19T23:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-05T04:45:00",
-        "mostRecentDischargeAlertStop": "2026-07-05T06:30:00",
+        "mostRecentDischargeAlertStart": "2026-02-18T22:15:00",
+        "mostRecentDischargeAlertStop": "2026-02-19T23:45:00",
         "uniqueId": "TWL00299"
     },
     {
@@ -5111,10 +5139,10 @@
         "y": 218400,
         "receivingWaterCourse": "Littlestock Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-04T00:15:00",
+        "statusChanged": "2026-05-04T04:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-03T22:00:00",
-        "mostRecentDischargeAlertStop": "2026-07-04T00:15:00",
+        "mostRecentDischargeAlertStart": "2026-05-04T00:00:00",
+        "mostRecentDischargeAlertStop": "2026-05-04T04:15:00",
         "uniqueId": "TWL00303"
     },
     {
@@ -5125,10 +5153,10 @@
         "y": 175500,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T16:12:00",
+        "statusChanged": "2026-03-14T01:46:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T05:48:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T16:12:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T10:08:00",
+        "mostRecentDischargeAlertStop": "2026-03-14T01:46:00",
         "uniqueId": "TWL00304"
     },
     {
@@ -5139,10 +5167,10 @@
         "y": 249730,
         "receivingWaterCourse": "Ashby Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-11T11:15:00",
+        "statusChanged": "2026-05-02T18:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-11T10:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-11T11:15:00",
+        "mostRecentDischargeAlertStart": "2026-05-02T17:45:00",
+        "mostRecentDischargeAlertStop": "2026-05-02T18:45:00",
         "uniqueId": "TWL00305"
     },
     {
@@ -5167,10 +5195,10 @@
         "y": 232200,
         "receivingWaterCourse": "River Evenlode",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-19T21:00:00",
+        "statusChanged": "2026-03-13T23:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-19T15:15:00",
-        "mostRecentDischargeAlertStop": "2026-05-19T21:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T16:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T23:00:00",
         "uniqueId": "TWL00726"
     },
     {
@@ -5181,10 +5209,10 @@
         "y": 175808,
         "receivingWaterCourse": "River Crane",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:32:00",
+        "statusChanged": "2024-09-23T02:02:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:52:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:32:00",
+        "mostRecentDischargeAlertStart": "2024-09-23T01:42:00",
+        "mostRecentDischargeAlertStop": "2024-09-23T02:02:00",
         "uniqueId": "TWL00656"
     },
     {
@@ -5209,10 +5237,10 @@
         "y": 185400,
         "receivingWaterCourse": "Hennikers Ditch",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:00:00",
+        "statusChanged": "2026-05-03T23:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:00:00",
+        "mostRecentDischargeAlertStart": "2026-05-03T22:15:00",
+        "mostRecentDischargeAlertStop": "2026-05-03T23:30:00",
         "uniqueId": "TWL00307"
     },
     {
@@ -5223,10 +5251,10 @@
         "y": 191580,
         "receivingWaterCourse": "River Ingrebourne",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T13:15:00",
+        "statusChanged": "2026-02-19T17:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T10:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T13:15:00",
+        "mostRecentDischargeAlertStart": "2026-02-19T01:15:00",
+        "mostRecentDischargeAlertStop": "2026-02-19T17:00:00",
         "uniqueId": "TWL00054"
     },
     {
@@ -5237,10 +5265,10 @@
         "y": 232579,
         "receivingWaterCourse": "River Evenlode",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-06T04:32:00",
+        "statusChanged": "2026-03-12T22:50:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-06T04:26:00",
-        "mostRecentDischargeAlertStop": "2026-07-06T04:32:00",
+        "mostRecentDischargeAlertStart": "2026-03-12T22:46:00",
+        "mostRecentDischargeAlertStop": "2026-03-12T22:50:00",
         "uniqueId": "TWL00804"
     },
     {
@@ -5251,10 +5279,10 @@
         "y": 184906,
         "receivingWaterCourse": "River Brent",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:16:00",
+        "statusChanged": "2026-03-13T02:50:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:46:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:16:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:08:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:50:00",
         "uniqueId": "TWL00660"
     },
     {
@@ -5333,10 +5361,10 @@
         "y": 180200,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:56:00",
+        "statusChanged": "2026-03-13T02:36:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:52:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:56:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:26:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:36:00",
         "uniqueId": "TWL00311"
     },
     {
@@ -5360,9 +5388,11 @@
         "x": 535620,
         "y": 180670,
         "receivingWaterCourse": "River Thames (via the Tideway tunnel)",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-29T08:02:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-05T14:36:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-07-19T12:22:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T13:42:00",
         "uniqueId": "TWL00658"
     },
     {
@@ -5387,10 +5417,10 @@
         "y": 204720,
         "receivingWaterCourse": "North Weald Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T12:15:00",
+        "statusChanged": "2026-03-14T00:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T06:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T12:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T04:15:00",
+        "mostRecentDischargeAlertStop": "2026-03-14T00:30:00",
         "uniqueId": "TWL00313"
     },
     {
@@ -5401,10 +5431,10 @@
         "y": 178110,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:04:00",
+        "statusChanged": "2025-07-19T11:34:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:16:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:04:00",
+        "mostRecentDischargeAlertStart": "2025-07-19T11:04:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T11:34:00",
         "uniqueId": "TWL00317"
     },
     {
@@ -5415,10 +5445,10 @@
         "y": 214320,
         "receivingWaterCourse": "River Leach",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T17:15:00",
+        "statusChanged": "2026-01-27T11:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T16:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T17:15:00",
+        "mostRecentDischargeAlertStart": "2026-01-27T08:15:00",
+        "mostRecentDischargeAlertStop": "2026-01-27T11:15:00",
         "uniqueId": "TWL00314"
     },
     {
@@ -5429,10 +5459,10 @@
         "y": 180270,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:20:00",
+        "statusChanged": "2025-07-19T12:38:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:24:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:20:00",
+        "mostRecentDischargeAlertStart": "2025-07-19T12:12:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T12:38:00",
         "uniqueId": "TWL00315"
     },
     {
@@ -5443,10 +5473,10 @@
         "y": 188710,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:30:00",
+        "statusChanged": "2026-01-08T19:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:30:00",
+        "mostRecentDischargeAlertStart": "2026-01-08T18:45:00",
+        "mostRecentDischargeAlertStop": "2026-01-08T19:45:00",
         "uniqueId": "TWL00316"
     },
     {
@@ -5471,10 +5501,10 @@
         "y": 183820,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:15:00",
+        "statusChanged": "2024-11-27T07:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:15:00",
+        "mostRecentDischargeAlertStart": "2024-11-27T06:15:00",
+        "mostRecentDischargeAlertStop": "2024-11-27T07:45:00",
         "uniqueId": "TWL00138"
     },
     {
@@ -5485,10 +5515,10 @@
         "y": 224187,
         "receivingWaterCourse": "River Lee",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T08:02:00",
+        "statusChanged": "2026-02-15T17:28:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T07:52:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T08:02:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T17:16:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T17:28:00",
         "uniqueId": "TWL00671"
     },
     {
@@ -5513,7 +5543,7 @@
         "y": 140200,
         "receivingWaterCourse": "Cobbler's Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-26T13:30:00",
+        "statusChanged": "2026-01-27T12:30:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-01-27T08:15:00",
         "mostRecentDischargeAlertStop": "2026-01-27T12:30:00",
@@ -5527,10 +5557,10 @@
         "y": 174821,
         "receivingWaterCourse": "Unnamed Watercourse",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:40:00",
+        "statusChanged": "2026-03-22T04:44:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:18:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:40:00",
+        "mostRecentDischargeAlertStart": "2026-03-22T04:40:00",
+        "mostRecentDischargeAlertStop": "2026-03-22T04:44:00",
         "uniqueId": "TWL00672"
     },
     {
@@ -5541,10 +5571,10 @@
         "y": 188130,
         "receivingWaterCourse": "Decoy Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:00:00",
+        "statusChanged": "2026-03-13T02:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:30:00",
         "uniqueId": "TWL00320"
     },
     {
@@ -5555,10 +5585,10 @@
         "y": 188380,
         "receivingWaterCourse": "Decoy Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:15:00",
+        "statusChanged": "2026-03-13T03:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T01:45:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T03:30:00",
         "uniqueId": "TWL00321"
     },
     {
@@ -5569,10 +5599,10 @@
         "y": 202200,
         "receivingWaterCourse": "Pottery Stream",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-03T00:30:00",
+        "statusChanged": "2026-03-04T02:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T07:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-03T00:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-04T00:30:00",
+        "mostRecentDischargeAlertStop": "2026-03-04T02:00:00",
         "uniqueId": "TWL00323"
     },
     {
@@ -5597,10 +5627,10 @@
         "y": 220738,
         "receivingWaterCourse": "River Lee",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T07:42:00",
+        "statusChanged": "2026-03-13T00:52:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T07:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T07:42:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T00:48:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T00:52:00",
         "uniqueId": "TWL00678"
     },
     {
@@ -5611,10 +5641,10 @@
         "y": 220738,
         "receivingWaterCourse": "River Lee",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-10T18:20:00",
+        "statusChanged": "2026-05-03T23:06:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-10T18:10:00",
-        "mostRecentDischargeAlertStop": "2026-06-10T18:20:00",
+        "mostRecentDischargeAlertStart": "2026-05-03T22:52:00",
+        "mostRecentDischargeAlertStop": "2026-05-03T23:06:00",
         "uniqueId": "TWL00679"
     },
     {
@@ -5665,7 +5695,7 @@
         "y": 187291,
         "receivingWaterCourse": "Yeading Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-02T16:15:00",
+        "statusChanged": "2025-05-16T07:30:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00683"
     },
@@ -5677,10 +5707,10 @@
         "y": 132300,
         "receivingWaterCourse": "Gatwick Stream",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-07T20:00:00",
+        "statusChanged": "2026-01-27T23:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-07T19:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-07T20:00:00",
+        "mostRecentDischargeAlertStart": "2026-01-27T08:45:00",
+        "mostRecentDischargeAlertStop": "2026-01-27T23:45:00",
         "uniqueId": "TWL00328"
     },
     {
@@ -5691,10 +5721,10 @@
         "y": 173040,
         "receivingWaterCourse": "River Wandle",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-28T07:45:00",
+        "statusChanged": "2026-03-04T15:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:00:00",
+        "mostRecentDischargeAlertStart": "2024-09-23T01:15:00",
+        "mostRecentDischargeAlertStop": "2024-09-23T02:45:00",
         "uniqueId": "TWL00139"
     },
     {
@@ -5705,10 +5735,10 @@
         "y": 186260,
         "receivingWaterCourse": "River Lee",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:20:00",
+        "statusChanged": "2024-11-27T07:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:16:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:20:00",
+        "mostRecentDischargeAlertStart": "2024-11-27T06:02:00",
+        "mostRecentDischargeAlertStop": "2024-11-27T07:00:00",
         "uniqueId": "TWL00684"
     },
     {
@@ -5719,10 +5749,10 @@
         "y": 191680,
         "receivingWaterCourse": "Bounds Green Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-30T11:15:00",
+        "statusChanged": "2026-04-16T08:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:00:00",
+        "mostRecentDischargeAlertStart": "2024-01-04T22:45:00",
+        "mostRecentDischargeAlertStop": "2024-01-04T23:15:00",
         "uniqueId": "TWL00330"
     },
     {
@@ -5733,10 +5763,10 @@
         "y": 168010,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:18:00",
+        "statusChanged": "2025-10-31T20:58:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:22:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:18:00",
+        "mostRecentDischargeAlertStart": "2025-10-31T19:32:00",
+        "mostRecentDischargeAlertStop": "2025-10-31T20:58:00",
         "uniqueId": "TWL00140"
     },
     {
@@ -5747,10 +5777,10 @@
         "y": 192190,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:15:00",
+        "statusChanged": "2026-04-13T16:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:15:00",
+        "mostRecentDischargeAlertStart": "2026-04-13T15:45:00",
+        "mostRecentDischargeAlertStop": "2026-04-13T16:15:00",
         "uniqueId": "TWL00332"
     },
     {
@@ -5775,10 +5805,10 @@
         "y": 175520,
         "receivingWaterCourse": "Beverley Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:45:00",
+        "statusChanged": "2026-02-15T13:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:45:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T12:45:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T13:15:00",
         "uniqueId": "TWL00334"
     },
     {
@@ -5789,7 +5819,7 @@
         "y": 174600,
         "receivingWaterCourse": "River Darent",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T17:15:00",
+        "statusChanged": "2024-12-31T23:45:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00335"
     },
@@ -5815,11 +5845,23 @@
         "y": 192450,
         "receivingWaterCourse": "Wells Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:30:00",
+        "statusChanged": "2026-04-13T16:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:30:00",
+        "mostRecentDischargeAlertStart": "2026-04-13T16:00:00",
+        "mostRecentDischargeAlertStop": "2026-04-13T16:30:00",
         "uniqueId": "TWL00689"
+    },
+    {
+        "locationName": "Puller Rd/Calvert Rd Storm, Barnet",
+        "permitNumber": "TEMP.2838",
+        "locationGridRef": "TQ23989716",
+        "x": 523980,
+        "y": 197160,
+        "receivingWaterCourse": "Kitts End Stream",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2025-05-19T07:30:00",
+        "alertPast48Hours": false,
+        "uniqueId": "TWL00141"
     },
     {
         "locationName": "Purton",
@@ -5842,9 +5884,11 @@
         "x": 524080,
         "y": 175720,
         "receivingWaterCourse": "River Thames (via the Tideway tunnel)",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-29T08:02:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-05T14:36:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-07-19T13:22:00",
+        "mostRecentDischargeAlertStop": "2025-07-20T03:42:00",
         "uniqueId": "TWL00338"
     },
     {
@@ -5855,10 +5899,10 @@
         "y": 177670,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:38:00",
+        "statusChanged": "2025-10-31T19:48:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:04:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:38:00",
+        "mostRecentDischargeAlertStart": "2025-10-31T19:40:00",
+        "mostRecentDischargeAlertStop": "2025-10-31T19:48:00",
         "uniqueId": "TWL00339"
     },
     {
@@ -5882,9 +5926,11 @@
         "x": 528280,
         "y": 177820,
         "receivingWaterCourse": "River Thames (via the Tideway tunnel)",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-29T07:58:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-05T14:36:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-07-19T12:20:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T15:16:00",
         "uniqueId": "TWL00371"
     },
     {
@@ -5894,9 +5940,11 @@
         "x": 536010,
         "y": 180810,
         "receivingWaterCourse": "River Thames",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-27T08:22:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-04-30T07:40:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2025-09-30T23:10:00",
+        "mostRecentDischargeAlertStop": "2025-09-30T23:16:00",
         "uniqueId": "TWL00341"
     },
     {
@@ -5921,10 +5969,10 @@
         "y": 191810,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T07:00:00",
+        "statusChanged": "2026-05-03T23:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T07:00:00",
+        "mostRecentDischargeAlertStart": "2026-05-03T22:45:00",
+        "mostRecentDischargeAlertStop": "2026-05-03T23:30:00",
         "uniqueId": "TWL00695"
     },
     {
@@ -5977,10 +6025,10 @@
         "y": 188200,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:00:00",
+        "statusChanged": "2026-02-15T11:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:00:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T10:15:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T11:15:00",
         "uniqueId": "TWL00540"
     },
     {
@@ -5991,10 +6039,10 @@
         "y": 157320,
         "receivingWaterCourse": "River Wey",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-03T00:15:00",
+        "statusChanged": "2026-03-14T13:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T13:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-03T00:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-14T12:30:00",
+        "mostRecentDischargeAlertStop": "2026-03-14T13:30:00",
         "uniqueId": "TWL00348"
     },
     {
@@ -6019,10 +6067,10 @@
         "y": 181920,
         "receivingWaterCourse": "Rainham Creek",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T08:30:00",
+        "statusChanged": "2026-02-15T23:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T07:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T08:30:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T16:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-15T23:15:00",
         "uniqueId": "TWL00350"
     },
     {
@@ -6047,10 +6095,10 @@
         "y": 172330,
         "receivingWaterCourse": "Beverley Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:45:00",
+        "statusChanged": "2025-10-24T07:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:45:00",
+        "mostRecentDischargeAlertStart": "2024-09-23T02:45:00",
+        "mostRecentDischargeAlertStop": "2024-09-23T04:45:00",
         "uniqueId": "TWL00352"
     },
     {
@@ -6061,10 +6109,10 @@
         "y": 186000,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:40:00",
+        "statusChanged": "2024-09-26T05:08:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:02:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:40:00",
+        "mostRecentDischargeAlertStart": "2024-09-26T04:52:00",
+        "mostRecentDischargeAlertStop": "2024-09-26T05:08:00",
         "uniqueId": "TWL00353"
     },
     {
@@ -6075,10 +6123,10 @@
         "y": 156900,
         "receivingWaterCourse": "Rotherwick Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-26T12:08:00",
+        "statusChanged": "2026-01-27T12:46:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-26T10:40:00",
-        "mostRecentDischargeAlertStop": "2026-05-26T12:08:00",
+        "mostRecentDischargeAlertStart": "2026-01-27T08:24:00",
+        "mostRecentDischargeAlertStop": "2026-01-27T12:46:00",
         "uniqueId": "TWL00354"
     },
     {
@@ -6089,10 +6137,10 @@
         "y": 194272,
         "receivingWaterCourse": "Overflow Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:04:00",
+        "statusChanged": "2026-03-13T03:28:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:38:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:04:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T03:24:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T03:28:00",
         "uniqueId": "TWL00701"
     },
     {
@@ -6116,9 +6164,11 @@
         "x": 515636,
         "y": 182350,
         "receivingWaterCourse": "River Brent",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-28T09:56:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-03-30T19:54:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-03-30T18:44:00",
+        "mostRecentDischargeAlertStop": "2026-03-30T19:54:00",
         "uniqueId": "TWL00704"
     },
     {
@@ -6184,9 +6234,11 @@
         "x": 530660,
         "y": 180630,
         "receivingWaterCourse": "River Thames",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-06-04T10:32:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-05T07:46:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-04-29T09:46:00",
+        "mostRecentDischargeAlertStop": "2026-04-29T11:44:00",
         "uniqueId": "TWL00360"
     },
     {
@@ -6211,10 +6263,10 @@
         "y": 190050,
         "receivingWaterCourse": "Tributary of River Cole",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-05T08:00:00",
+        "statusChanged": "2026-03-27T23:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-03T20:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-05T08:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-27T15:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-27T23:30:00",
         "uniqueId": "TWL00362"
     },
     {
@@ -6225,10 +6277,10 @@
         "y": 207350,
         "receivingWaterCourse": "Shabbington Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-03T23:45:00",
+        "statusChanged": "2026-04-01T13:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-03T16:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-03T23:45:00",
+        "mostRecentDischargeAlertStart": "2026-04-01T13:00:00",
+        "mostRecentDischargeAlertStop": "2026-04-01T13:30:00",
         "uniqueId": "TWL00363"
     },
     {
@@ -6239,10 +6291,10 @@
         "y": 179940,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T06:02:00",
+        "statusChanged": "2025-10-31T22:44:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:34:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T06:02:00",
+        "mostRecentDischargeAlertStart": "2025-10-31T20:54:00",
+        "mostRecentDischargeAlertStop": "2025-10-31T22:44:00",
         "uniqueId": "TWL00364"
     },
     {
@@ -6279,10 +6331,10 @@
         "y": 245760,
         "receivingWaterCourse": "Hanwell Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T18:15:00",
+        "statusChanged": "2026-02-16T00:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T17:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T18:15:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T16:15:00",
+        "mostRecentDischargeAlertStop": "2026-02-16T00:30:00",
         "uniqueId": "TWL00367"
     },
     {
@@ -6307,10 +6359,10 @@
         "y": 240790,
         "receivingWaterCourse": "Shutford Stream",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-14T15:15:00",
+        "statusChanged": "2026-03-08T23:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-14T14:45:00",
-        "mostRecentDischargeAlertStop": "2026-05-14T15:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-08T23:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-08T23:30:00",
         "uniqueId": "TWL00369"
     },
     {
@@ -6349,10 +6401,10 @@
         "y": 177790,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:22:00",
+        "statusChanged": "2026-02-12T15:52:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:06:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:22:00",
+        "mostRecentDischargeAlertStart": "2026-02-12T15:48:00",
+        "mostRecentDischargeAlertStop": "2026-02-12T15:52:00",
         "uniqueId": "TWL00372"
     },
     {
@@ -6362,11 +6414,9 @@
         "x": 524552,
         "y": 171972,
         "receivingWaterCourse": "River Wandle",
-        "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-19T12:45:00",
+        "alertStatus": "Offline",
+        "statusChanged": "2026-05-04T03:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2024-09-23T00:45:00",
-        "mostRecentDischargeAlertStop": "2024-09-23T02:30:00",
         "uniqueId": "TWL00715"
     },
     {
@@ -6391,10 +6441,10 @@
         "y": 179000,
         "receivingWaterCourse": "River Brent",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:58:00",
+        "statusChanged": "2025-05-27T10:52:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:52:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:58:00",
+        "mostRecentDischargeAlertStart": "2025-05-27T10:48:00",
+        "mostRecentDischargeAlertStop": "2025-05-27T10:52:00",
         "uniqueId": "TWL00376"
     },
     {
@@ -6405,10 +6455,10 @@
         "y": 150300,
         "receivingWaterCourse": "Tributary of River Blackwater",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T05:58:00",
+        "statusChanged": "2026-02-21T08:58:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T04:56:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T05:58:00",
+        "mostRecentDischargeAlertStart": "2026-01-22T22:10:00",
+        "mostRecentDischargeAlertStop": "2026-01-22T23:06:00",
         "uniqueId": "TWL00743"
     },
     {
@@ -6419,7 +6469,7 @@
         "y": 208420,
         "receivingWaterCourse": "Limb Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-26T09:15:00",
+        "statusChanged": "2026-03-03T15:00:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-01-08T23:30:00",
         "mostRecentDischargeAlertStop": "2026-03-03T15:00:00",
@@ -6446,11 +6496,9 @@
         "x": 535170,
         "y": 168550,
         "receivingWaterCourse": "Chaffinch Brook",
-        "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T06:00:00",
+        "alertStatus": "Offline",
+        "statusChanged": "2026-04-22T09:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T06:00:00",
         "uniqueId": "TWL00379"
     },
     {
@@ -6461,10 +6509,10 @@
         "y": 186450,
         "receivingWaterCourse": "Loxford Water",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T09:15:00",
+        "statusChanged": "2026-04-12T16:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T09:15:00",
+        "mostRecentDischargeAlertStart": "2026-04-12T16:15:00",
+        "mostRecentDischargeAlertStop": "2026-04-12T16:45:00",
         "uniqueId": "TWL00380"
     },
     {
@@ -6475,10 +6523,8 @@
         "y": 177720,
         "receivingWaterCourse": "River Thames (via the Tideway tunnel)",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-15T11:26:00",
+        "statusChanged": "2026-04-28T15:54:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T12:52:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T13:42:00",
         "uniqueId": "TWL00400"
     },
     {
@@ -6517,10 +6563,10 @@
         "y": 190000,
         "receivingWaterCourse": "Dagenham Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:45:00",
+        "statusChanged": "2026-01-09T04:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:45:00",
+        "mostRecentDischargeAlertStart": "2024-11-27T04:45:00",
+        "mostRecentDischargeAlertStop": "2024-11-27T08:00:00",
         "uniqueId": "TWL00383"
     },
     {
@@ -6531,10 +6577,10 @@
         "y": 168960,
         "receivingWaterCourse": "River Hogsmill",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:06:00",
+        "statusChanged": "2026-04-17T11:24:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:22:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:06:00",
+        "mostRecentDischargeAlertStart": "2025-10-31T20:00:00",
+        "mostRecentDischargeAlertStop": "2025-10-31T20:50:00",
         "uniqueId": "TWL00142"
     },
     {
@@ -6545,10 +6591,10 @@
         "y": 188888,
         "receivingWaterCourse": "Wealdstone Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:08:00",
+        "statusChanged": "2026-03-13T03:22:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T05:04:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:08:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T03:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T03:22:00",
         "uniqueId": "TWL00718"
     },
     {
@@ -6573,10 +6619,10 @@
         "y": 189858,
         "receivingWaterCourse": "Edgware Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-27T03:40:00",
+        "statusChanged": "2026-04-04T07:56:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-27T03:34:00",
-        "mostRecentDischargeAlertStop": "2026-06-27T03:40:00",
+        "mostRecentDischargeAlertStart": "2026-04-04T07:34:00",
+        "mostRecentDischargeAlertStop": "2026-04-04T07:56:00",
         "uniqueId": "TWL00719"
     },
     {
@@ -6587,10 +6633,10 @@
         "y": 178310,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T07:38:00",
+        "statusChanged": "2025-07-19T12:20:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:04:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:08:00",
+        "mostRecentDischargeAlertStart": "2025-07-19T10:10:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T12:20:00",
         "uniqueId": "TWL00384"
     },
     {
@@ -6615,10 +6661,10 @@
         "y": 221700,
         "receivingWaterCourse": "River Rib",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-07T21:30:00",
+        "statusChanged": "2026-02-16T00:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-07T21:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-07T21:30:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T18:15:00",
+        "mostRecentDischargeAlertStop": "2026-02-16T00:15:00",
         "uniqueId": "TWL00386"
     },
     {
@@ -6657,10 +6703,10 @@
         "y": 224270,
         "receivingWaterCourse": "River Stort",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-08T07:00:00",
+        "statusChanged": "2026-03-18T11:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-28T11:00:00",
-        "mostRecentDischargeAlertStop": "2026-05-28T11:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-18T08:15:00",
+        "mostRecentDischargeAlertStop": "2026-03-18T11:00:00",
         "uniqueId": "TWL00388"
     },
     {
@@ -6699,10 +6745,10 @@
         "y": 224860,
         "receivingWaterCourse": "Hardwick Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-11T22:00:00",
+        "statusChanged": "2026-04-01T09:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-11T10:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-11T22:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-31T21:30:00",
+        "mostRecentDischargeAlertStop": "2026-04-01T09:00:00",
         "uniqueId": "TWL00391"
     },
     {
@@ -6713,10 +6759,10 @@
         "y": 159810,
         "receivingWaterCourse": "River Mole",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-26T15:50:00",
+        "statusChanged": "2026-03-12T22:48:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-24T22:32:00",
-        "mostRecentDischargeAlertStop": "2026-05-26T15:50:00",
+        "mostRecentDischargeAlertStart": "2026-03-12T22:42:00",
+        "mostRecentDischargeAlertStop": "2026-03-12T22:48:00",
         "uniqueId": "TWL00744"
     },
     {
@@ -6741,10 +6787,10 @@
         "y": 188700,
         "receivingWaterCourse": "Stonebridge Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:00:00",
+        "statusChanged": "2025-08-11T07:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T04:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:00:00",
+        "mostRecentDischargeAlertStart": "2024-11-27T07:30:00",
+        "mostRecentDischargeAlertStop": "2024-11-27T08:45:00",
         "uniqueId": "TWL00291"
     },
     {
@@ -6755,10 +6801,10 @@
         "y": 149640,
         "receivingWaterCourse": "River Mole",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T07:00:00",
+        "statusChanged": "2026-03-13T06:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T06:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T07:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T05:30:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T06:30:00",
         "uniqueId": "TWL00106"
     },
     {
@@ -6769,10 +6815,10 @@
         "y": 170900,
         "receivingWaterCourse": "River Graveney",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:45:00",
+        "statusChanged": "2026-02-20T18:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T04:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:45:00",
+        "mostRecentDischargeAlertStart": "2026-02-20T17:45:00",
+        "mostRecentDischargeAlertStop": "2026-02-20T18:45:00",
         "uniqueId": "TWL00728"
     },
     {
@@ -6783,10 +6829,10 @@
         "y": 170900,
         "receivingWaterCourse": "River Graveney",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-28T07:45:00",
+        "statusChanged": "2026-04-16T14:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-07T11:30:00",
-        "mostRecentDischargeAlertStop": "2026-07-07T13:45:00",
+        "mostRecentDischargeAlertStart": "2025-10-12T07:30:00",
+        "mostRecentDischargeAlertStop": "2025-10-12T08:00:00",
         "uniqueId": "TWL00394"
     },
     {
@@ -6797,10 +6843,10 @@
         "y": 170400,
         "receivingWaterCourse": "River Graveney",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:00:00",
+        "statusChanged": "2026-01-23T07:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:00:00",
+        "mostRecentDischargeAlertStart": "2026-01-23T06:30:00",
+        "mostRecentDischargeAlertStop": "2026-01-23T07:00:00",
         "uniqueId": "TWL00729"
     },
     {
@@ -6811,10 +6857,10 @@
         "y": 170400,
         "receivingWaterCourse": "River Graveney",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:00:00",
+        "statusChanged": "2026-04-13T15:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T04:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:00:00",
+        "mostRecentDischargeAlertStart": "2026-04-13T15:00:00",
+        "mostRecentDischargeAlertStop": "2026-04-13T15:30:00",
         "uniqueId": "TWL00730"
     },
     {
@@ -6825,10 +6871,10 @@
         "y": 170400,
         "receivingWaterCourse": "River Graveney",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:00:00",
+        "statusChanged": "2024-09-23T02:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:00:00",
+        "mostRecentDischargeAlertStart": "2024-09-23T00:30:00",
+        "mostRecentDischargeAlertStop": "2024-09-23T02:30:00",
         "uniqueId": "TWL00731"
     },
     {
@@ -6839,10 +6885,10 @@
         "y": 170400,
         "receivingWaterCourse": "River Graveney",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:00:00",
+        "statusChanged": "2025-11-28T09:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:00:00",
+        "mostRecentDischargeAlertStart": "2024-09-23T01:15:00",
+        "mostRecentDischargeAlertStop": "2024-09-23T02:00:00",
         "uniqueId": "TWL00732"
     },
     {
@@ -6853,10 +6899,10 @@
         "y": 170400,
         "receivingWaterCourse": "River Graveney",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T17:15:00",
+        "statusChanged": "2026-02-20T18:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-20T05:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-22T09:00:00",
+        "mostRecentDischargeAlertStart": "2026-02-20T18:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-20T18:30:00",
         "uniqueId": "TWL00733"
     },
     {
@@ -6891,10 +6937,10 @@
         "y": 170413,
         "receivingWaterCourse": "River Wandle",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:08:00",
+        "statusChanged": "2024-09-27T09:14:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:26:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:08:00",
+        "mostRecentDischargeAlertStart": "2024-09-27T08:50:00",
+        "mostRecentDischargeAlertStop": "2024-09-27T09:14:00",
         "uniqueId": "TWL00634"
     },
     {
@@ -6905,10 +6951,10 @@
         "y": 170070,
         "receivingWaterCourse": "River Graveney",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-21T21:00:00",
+        "statusChanged": "2026-02-20T18:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-21T20:30:00",
-        "mostRecentDischargeAlertStop": "2026-07-21T21:00:00",
+        "mostRecentDischargeAlertStart": "2026-02-20T18:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-20T18:30:00",
         "uniqueId": "TWL00396"
     },
     {
@@ -6999,7 +7045,7 @@
         "y": 221600,
         "receivingWaterCourse": "Wayletts Ditch",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T17:15:00",
+        "statusChanged": "2025-11-19T16:45:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00405"
     },
@@ -7011,7 +7057,7 @@
         "y": 139110,
         "receivingWaterCourse": "Cranleigh Waters",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-26T13:30:00",
+        "statusChanged": "2026-01-27T14:15:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2026-01-27T08:15:00",
         "mostRecentDischargeAlertStop": "2026-01-27T14:15:00",
@@ -7025,10 +7071,10 @@
         "y": 180790,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:58:00",
+        "statusChanged": "2025-11-13T10:14:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:32:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:58:00",
+        "mostRecentDischargeAlertStart": "2025-07-19T12:14:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T12:26:00",
         "uniqueId": "TWL00407"
     },
     {
@@ -7053,10 +7099,10 @@
         "y": 206830,
         "receivingWaterCourse": "Lashlake Stream",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-03T22:45:00",
+        "statusChanged": "2026-02-25T14:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-03T17:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-03T22:45:00",
+        "mostRecentDischargeAlertStart": "2026-02-25T08:45:00",
+        "mostRecentDischargeAlertStop": "2026-02-25T14:30:00",
         "uniqueId": "TWL00409"
     },
     {
@@ -7067,10 +7113,10 @@
         "y": 191020,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:15:00",
+        "statusChanged": "2024-11-27T07:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:15:00",
+        "mostRecentDischargeAlertStart": "2024-11-27T06:15:00",
+        "mostRecentDischargeAlertStop": "2024-11-27T07:15:00",
         "uniqueId": "TWL00410"
     },
     {
@@ -7109,10 +7155,10 @@
         "y": 197700,
         "receivingWaterCourse": "Brookhouse Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-26T10:45:00",
+        "statusChanged": "2026-04-13T01:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-26T10:15:00",
-        "mostRecentDischargeAlertStop": "2026-07-26T10:45:00",
+        "mostRecentDischargeAlertStart": "2026-04-13T00:30:00",
+        "mostRecentDischargeAlertStop": "2026-04-13T01:00:00",
         "uniqueId": "TWL00413"
     },
     {
@@ -7123,10 +7169,10 @@
         "y": 205000,
         "receivingWaterCourse": "Cripsey Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T15:00:00",
+        "statusChanged": "2026-03-14T22:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T06:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T15:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T04:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-14T22:45:00",
         "uniqueId": "TWL00414"
     },
     {
@@ -7137,7 +7183,7 @@
         "y": 170526,
         "receivingWaterCourse": "River Wandle",
         "alertStatus": "Offline",
-        "statusChanged": "2026-06-10T13:30:00",
+        "statusChanged": "2026-04-09T10:52:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00747"
     },
@@ -7177,10 +7223,10 @@
         "y": 179000,
         "receivingWaterCourse": "River Brent",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T08:56:00",
+        "statusChanged": "2026-03-13T02:56:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T08:32:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T08:56:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:24:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T02:56:00",
         "uniqueId": "TWL00417"
     },
     {
@@ -7191,7 +7237,7 @@
         "y": 167680,
         "receivingWaterCourse": "River Bulborne",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-24T08:00:00",
+        "statusChanged": "2024-09-23T04:00:00",
         "alertPast48Hours": false,
         "mostRecentDischargeAlertStart": "2024-09-22T23:15:00",
         "mostRecentDischargeAlertStop": "2024-09-23T04:00:00",
@@ -7246,8 +7292,8 @@
         "x": 530400,
         "y": 180150,
         "receivingWaterCourse": "River Thames (via the Tideway tunnel)",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-29T08:02:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-05T14:36:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00809"
     },
@@ -7259,10 +7305,10 @@
         "y": 217950,
         "receivingWaterCourse": "Fleet Marston Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T13:00:00",
+        "statusChanged": "2026-03-13T23:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T06:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T13:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:30:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T23:15:00",
         "uniqueId": "TWL00420"
     },
     {
@@ -7301,10 +7347,10 @@
         "y": 247010,
         "receivingWaterCourse": "Tributary of River Cherwell",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-14T19:45:00",
+        "statusChanged": "2026-05-02T18:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-14T15:15:00",
-        "mostRecentDischargeAlertStop": "2026-07-14T19:45:00",
+        "mostRecentDischargeAlertStart": "2026-05-02T18:00:00",
+        "mostRecentDischargeAlertStop": "2026-05-02T18:30:00",
         "uniqueId": "TWL00427"
     },
     {
@@ -7399,10 +7445,10 @@
         "y": 195400,
         "receivingWaterCourse": "Pyrton Stream",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-10T02:30:00",
+        "statusChanged": "2026-03-15T19:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-10T02:00:00",
-        "mostRecentDischargeAlertStop": "2026-05-10T02:30:00",
+        "mostRecentDischargeAlertStart": "2026-03-15T19:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-15T19:45:00",
         "uniqueId": "TWL00433"
     },
     {
@@ -7467,10 +7513,10 @@
         "y": 183247,
         "receivingWaterCourse": "Unnamed Watercourse",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T04:02:00",
+        "statusChanged": "2026-01-07T01:44:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:28:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T04:02:00",
+        "mostRecentDischargeAlertStart": "2026-01-07T01:36:00",
+        "mostRecentDischargeAlertStop": "2026-01-07T01:44:00",
         "uniqueId": "TWL00782"
     },
     {
@@ -7494,9 +7540,11 @@
         "x": 523480,
         "y": 176230,
         "receivingWaterCourse": "River Thames (via the Tideway tunnel)",
-        "alertStatus": "Offline",
-        "statusChanged": "2026-07-29T07:56:00",
+        "alertStatus": "Not discharging",
+        "statusChanged": "2026-05-05T14:36:00",
         "alertPast48Hours": false,
+        "mostRecentDischargeAlertStart": "2026-01-16T00:12:00",
+        "mostRecentDischargeAlertStop": "2026-01-16T00:36:00",
         "uniqueId": "TWL00438"
     },
     {
@@ -7507,10 +7555,10 @@
         "y": 206230,
         "receivingWaterCourse": "Seacourt Stream",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T06:00:00",
+        "statusChanged": "2026-03-13T00:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T05:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T06:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T00:00:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T00:45:00",
         "uniqueId": "TWL00439"
     },
     {
@@ -7521,10 +7569,10 @@
         "y": 177920,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-22T00:10:00",
+        "statusChanged": "2025-10-10T12:52:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-22T00:02:00",
-        "mostRecentDischargeAlertStop": "2026-07-22T00:10:00",
+        "mostRecentDischargeAlertStart": "2025-07-19T10:02:00",
+        "mostRecentDischargeAlertStop": "2025-07-19T13:34:00",
         "uniqueId": "TWL00440"
     },
     {
@@ -7535,10 +7583,10 @@
         "y": 195080,
         "receivingWaterCourse": "Dollis Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:15:00",
+        "statusChanged": "2026-03-13T03:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:15:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:15:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T02:15:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T03:30:00",
         "uniqueId": "TWL00145"
     },
     {
@@ -7549,10 +7597,10 @@
         "y": 229610,
         "receivingWaterCourse": "Weston Tributary ",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T11:00:00",
+        "statusChanged": "2026-02-28T22:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T05:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T11:00:00",
+        "mostRecentDischargeAlertStart": "2026-02-28T18:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-28T22:45:00",
         "uniqueId": "TWL00441"
     },
     {
@@ -7563,7 +7611,7 @@
         "y": 188680,
         "receivingWaterCourse": "Stonebridge Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-13T17:18:00",
+        "statusChanged": "2023-10-31T15:56:00",
         "alertPast48Hours": false,
         "uniqueId": "TWL00762"
     },
@@ -7589,10 +7637,10 @@
         "y": 217470,
         "receivingWaterCourse": "Gallos Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T23:00:00",
+        "statusChanged": "2026-02-24T03:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T15:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T23:00:00",
+        "mostRecentDischargeAlertStart": "2026-02-23T14:15:00",
+        "mostRecentDischargeAlertStop": "2026-02-24T03:45:00",
         "uniqueId": "TWL00443"
     },
     {
@@ -7617,10 +7665,10 @@
         "y": 163140,
         "receivingWaterCourse": "River Wey",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-13T09:30:00",
+        "statusChanged": "2026-04-16T17:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-13T08:30:00",
-        "mostRecentDischargeAlertStop": "2026-06-13T09:30:00",
+        "mostRecentDischargeAlertStart": "2026-04-16T16:45:00",
+        "mostRecentDischargeAlertStop": "2026-04-16T17:15:00",
         "uniqueId": "TWL00445"
     },
     {
@@ -7643,10 +7691,10 @@
         "y": 205150,
         "receivingWaterCourse": "Wheatley Ditch",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-03T00:00:00",
+        "statusChanged": "2026-03-02T01:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T22:45:00",
-        "mostRecentDischargeAlertStop": "2026-06-03T00:00:00",
+        "mostRecentDischargeAlertStart": "2026-03-01T21:30:00",
+        "mostRecentDischargeAlertStop": "2026-03-02T01:45:00",
         "uniqueId": "TWL00446"
     },
     {
@@ -7725,10 +7773,10 @@
         "y": 207070,
         "receivingWaterCourse": "Tributary of River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-23T06:00:00",
+        "statusChanged": "2026-04-07T08:45:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-23T04:45:00",
-        "mostRecentDischargeAlertStop": "2026-07-23T06:00:00",
+        "mostRecentDischargeAlertStart": "2026-04-07T04:45:00",
+        "mostRecentDischargeAlertStop": "2026-04-07T08:45:00",
         "uniqueId": "TWL00451"
     },
     {
@@ -7767,10 +7815,10 @@
         "y": 175000,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T08:46:00",
+        "statusChanged": "2026-03-13T23:54:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T08:28:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T08:46:00",
+        "mostRecentDischargeAlertStart": "2026-03-13T23:34:00",
+        "mostRecentDischargeAlertStop": "2026-03-13T23:54:00",
         "uniqueId": "TWL00452"
     },
     {
@@ -7781,10 +7829,10 @@
         "y": 218720,
         "receivingWaterCourse": "Tributary of Rowsham Brook",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-03T22:30:00",
+        "statusChanged": "2026-05-04T02:15:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-03T18:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-03T22:30:00",
+        "mostRecentDischargeAlertStart": "2026-05-04T00:15:00",
+        "mostRecentDischargeAlertStop": "2026-05-04T02:15:00",
         "uniqueId": "TWL00453"
     },
     {
@@ -7794,11 +7842,10 @@
         "x": 445550,
         "y": 172080,
         "receivingWaterCourse": "Winterbourne Stream",
-        "alertStatus": "Not discharging",
-        "statusChanged": "2026-05-22T11:15:00",
-        "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-05-22T07:30:00",
-        "mostRecentDischargeAlertStop": "2026-05-22T11:15:00",
+        "alertStatus": "Discharging",
+        "statusChanged": "2026-05-04T19:15:00",
+        "alertPast48Hours": true,
+        "mostRecentDischargeAlertStart": "2026-05-04T19:15:00",
         "uniqueId": "TWL00454"
     },
     {
@@ -7823,10 +7870,10 @@
         "y": 157520,
         "receivingWaterCourse": "Guiness Ditch",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-02T22:30:00",
+        "statusChanged": "2026-02-16T00:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-02T14:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-02T22:30:00",
+        "mostRecentDischargeAlertStart": "2026-02-15T14:30:00",
+        "mostRecentDischargeAlertStop": "2026-02-16T00:30:00",
         "uniqueId": "TWL00458"
     },
     {
@@ -7837,10 +7884,10 @@
         "y": 179220,
         "receivingWaterCourse": "River Thames",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T05:00:00",
+        "statusChanged": "2025-10-31T21:28:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T03:22:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T05:00:00",
+        "mostRecentDischargeAlertStart": "2025-10-31T20:24:00",
+        "mostRecentDischargeAlertStop": "2025-10-31T21:28:00",
         "uniqueId": "TWL00460"
     },
     {
@@ -7851,10 +7898,10 @@
         "y": 252130,
         "receivingWaterCourse": "River Cherwell",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-07-14T03:15:00",
+        "statusChanged": "2026-02-27T23:00:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-07-13T22:45:00",
-        "mostRecentDischargeAlertStop": "2026-07-14T03:15:00",
+        "mostRecentDischargeAlertStart": "2026-02-27T20:00:00",
+        "mostRecentDischargeAlertStop": "2026-02-27T23:00:00",
         "uniqueId": "TWL00461"
     },
     {
@@ -7879,10 +7926,10 @@
         "y": 192190,
         "receivingWaterCourse": "River Roding",
         "alertStatus": "Not discharging",
-        "statusChanged": "2026-06-23T03:30:00",
+        "statusChanged": "2026-04-13T16:30:00",
         "alertPast48Hours": false,
-        "mostRecentDischargeAlertStart": "2026-06-23T02:00:00",
-        "mostRecentDischargeAlertStop": "2026-06-23T03:30:00",
+        "mostRecentDischargeAlertStart": "2026-04-13T16:00:00",
+        "mostRecentDischargeAlertStop": "2026-04-13T16:30:00",
         "uniqueId": "TWL00463"
     },
     {
